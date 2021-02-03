@@ -1,0 +1,26 @@
+.summariesMenu {
+  display: grid;
+  grid-template-columns: 100%;
+  margin-bottom: 1rem;
+}
+.summariesMenu ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 0.5rem 1rem;
+}
+.summariesMenu button {
+  margin: 0 auto 0.5em auto;
+  width: 50%;
+  max-width: 150px;
+}
+.summariesContent {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: 100%;
+}
+.summariesContent h2,
+.summariesContent p {
+  padding-bottom: 0.5rem;
+}

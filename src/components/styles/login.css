@@ -1,0 +1,25 @@
+.loginMenu,
+.loginContent,
+.loginContent form,
+.loginContent form label {
+  width: 100%;
+}
+
+.loginContent,
+.loginContent form {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: 100%;
+}
+.loginContent form label {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+}
+.loginContent form button {
+  margin: 0 auto 0.5em auto;
+  width: 50%;
+  max-width: 150px;
+}
