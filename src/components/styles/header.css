@@ -5,6 +5,8 @@ ul {
   width: 100%;
 }
 header {
+  max-width: 900px;
+  margin: 0 auto;
   padding-bottom: 0.5rem;
 }
 .logoImg {

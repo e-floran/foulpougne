@@ -10,10 +10,20 @@
   align-items: flex-start;
   padding: 0.5rem 1rem;
 }
-.summariesMenu button {
+.summariesMenu a {
+  padding: 0.5rem;
   margin: 0 auto 0.5em auto;
   width: 50%;
   max-width: 150px;
+  text-align: center;
+  background-color: var(--FPmain);
+  border: 0.1rem solid var(--FPblack);
+  color: var(--FPblack);
+}
+
+.summariesMenu a:hover {
+  background-color: white;
+  box-shadow: 0.15rem 0.15rem var(--FPblack);
 }
 .summariesContent {
   display: grid;

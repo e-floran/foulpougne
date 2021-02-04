@@ -1,8 +1,15 @@
 import "../components/styles/login.css";
-export default function Login(){
+export default function Login(props){
+    const {logged}=props;
     return(
         <div className="pageContainer">
-            <section  className="loginContent">
+            {logged
+            ? <section  className="loginContent">
+                <form>
+                    <button>Déconnexion</button>
+                </form>
+            </section>
+            : <section  className="loginContent">
                 <form>
                     <label>Identifiant
                         <input name="identifier" placeholder="Entrez votre identifiant" type="text"/>
@@ -12,8 +19,7 @@ export default function Login(){
                     </label>
                     <button>Connexion</button>
                 </form>
-            </section>
-            
+            </section>}
         </div>
     )
 }

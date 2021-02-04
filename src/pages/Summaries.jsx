@@ -1,5 +1,15 @@
+import { Link } from "react-router-dom";
+
+import getSummaries from "../utils/apiConsuming";
+
 import "../components/styles/summaries.css";
-export default function Summaries(){
+
+export default function Summaries(props){
+    const {logged}=props;
+    const summariesGetter = async () =>{
+        return await getSummaries();
+    } 
+
     return(
         <div className="pageContainer">
             <section className="summariesMenu">
@@ -7,7 +17,8 @@ export default function Summaries(){
                 <li>2019</li>
                 <li>2018</li>
             </ul>
-            <button>Ajouter un résumé</button>
+            {logged && <Link to="/add/" title="Ajout d'un résumé">Ajouter un résumé</Link>}
+            
             </section>
             <section  className="summariesContent">
                 <h2>Retrouvez les résumés des éditions précédentes</h2>
