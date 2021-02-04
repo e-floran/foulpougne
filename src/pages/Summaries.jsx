@@ -1,21 +1,36 @@
 import { Link } from "react-router-dom";
+import axios from "axios";
+import {useState, useEffect} from "react";
 
-import getSummaries from "../utils/apiConsuming";
+// import getSummaries from "../utils/apiConsuming";
 
 import "../components/styles/summaries.css";
 
 export default function Summaries(props){
     const {logged}=props;
-    const summariesGetter = async () =>{
-        return await getSummaries();
-    } 
-
+    const [summariesList, setSummariesList] = useState([]);
+    // const summariesGetter = async () =>{
+    //     const result = await getSummaries();
+    //     return result;
+    // }
+    useEffect(()=>{
+        axios
+        .get("http://localhost:5000/api/summaries")
+        .then((response) => response.data)
+        .then((data) => {
+            setSummariesList(data)
+        });
+    },[])
+    if (summariesList !==[]){
+        console.log(summariesList);
+    }
     return(
         <div className="pageContainer">
             <section className="summariesMenu">
             <ul>
-                <li>2019</li>
-                <li>2018</li>
+            {summariesList.map((s) => (
+            <Link   key={s.id} to="/add/" title={s.eventReference} ><li>{s.eventReference}</li></Link>
+            ))}
             </ul>
             {logged && <Link to="/add/" title="Ajout d'un résumé">Ajouter un résumé</Link>}
             
