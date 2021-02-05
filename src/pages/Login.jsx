@@ -1,6 +1,8 @@
 import "../components/styles/login.css";
 export default function Login(props){
     const {logged}=props;
+
+    
     return(
         <div className="pageContainer">
             {logged

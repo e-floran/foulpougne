@@ -18,6 +18,14 @@ body {
 h2 {
   font-size: 1.75rem;
 }
+a,
+button {
+  padding: 0.5rem;
+  max-width: 150px;
+  text-align: center;
+  border: 0.1rem solid var(--FPblack);
+  color: var(--FPblack);
+}
 a:visited {
   color: var(--FPblack);
 }
