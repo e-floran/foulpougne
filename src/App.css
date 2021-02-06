@@ -25,6 +25,7 @@ button {
   text-align: center;
   border: 0.1rem solid var(--FPblack);
   color: var(--FPblack);
+  font-family: "Lobster", cursive;
 }
 a:visited {
   color: var(--FPblack);

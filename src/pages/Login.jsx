@@ -1,18 +1,41 @@
-import "../components/styles/login.css";
-export default function Login(props){
-    const {logged}=props;
+import {useState, useEffect} from "react";
 
+import "../components/styles/login.css";
+
+export default function Login(){
+    const [logged, setLogged] = useState(false);
+
+    const handleLog = (e) =>{
+        if(logged===null){
+            localStorage.setItem('logged', true);
+            setLogged(true);
+        } else if (logged===false){
+            localStorage.removeItem('logged');
+            localStorage.setItem('logged', true);
+            setLogged(true);
+        } else{
+            localStorage.removeItem('logged');
+            localStorage.setItem('logged', false);
+            setLogged(false);
+        }
+    }
     
+    useEffect(()=>{
+        if(logged.toString() !== localStorage.logged){
+            setLogged(localStorage.logged);
+        }
+    })
+
     return(
         <div className="pageContainer">
             {logged
             ? <section  className="loginContent">
-                <form>
+                <form onSubmit={handleLog}>
                     <button>Déconnexion</button>
                 </form>
             </section>
             : <section  className="loginContent">
-                <form>
+                <form onSubmit={handleLog}>
                     <label>Identifiant
                         <input name="identifier" placeholder="Entrez votre identifiant" type="text"/>
                     </label>
