@@ -1,5 +1,4 @@
 import { Switch, Route } from "react-router-dom";
-import {useState, useEffect} from "react";
 
 import Header from "./components/Header";
 import Login from "./pages/Login";
@@ -9,24 +8,13 @@ import AddSummary from "./pages/AddSummary";
 import './App.css';
 
 function App() {
-  const [logged, setLogged] = useState(false);
-
-  useEffect(()=>{
-    if(localStorage.logged===null){
-      setLogged(false);
-  } else if (localStorage.logged==="false"){
-      setLogged(false);
-  } else{
-      setLogged(true);
-  }
-  })
 
   return (
     <div className="App">
-      <Header logged = {logged} />
+      <Header />
       <Switch>
         <Route exact path="/">
-          <Summaries logged = {logged} />
+          <Summaries />
         </Route>
         <Route exact path="/summaries/:id">
           <SingleSummary />
@@ -35,7 +23,7 @@ function App() {
           <Login />
         </Route>
         <Route exact path="/add/">
-          <AddSummary logged = {logged} />
+          <AddSummary />
         </Route>
         </Switch>
     </div>
