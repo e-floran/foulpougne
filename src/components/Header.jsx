@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-import "./styles/header.css";
+import "../styles/header.css";
 
 export default function Header(props){
     const {logged}=props;

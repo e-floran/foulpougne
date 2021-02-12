@@ -1,0 +1,53 @@
+.summariesMenu {
+  display: grid;
+  grid-template-columns: 100%;
+  margin-bottom: 1rem;
+}
+.summariesMenu ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 0.5rem 1rem;
+}
+.summariesMenu ul a,
+.summariesMenu a {
+  margin: 0 0.25rem 0.5em 0.25rem;
+  width: 45%;
+  background-color: var(--FPmain);
+}
+.summariesMenu > a {
+  margin: 0 auto 0.5em auto;
+}
+
+.summariesMenu a:hover {
+  background-color: white;
+  box-shadow: 0.15rem 0.15rem var(--FPblack);
+}
+.summariesContent {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: 100%;
+}
+.summariesContent h2,
+.summariesContent p {
+  padding-bottom: 0.5rem;
+}
+.summariesContent h2,
+.summariesContent h3,
+.textContainer {
+  margin-bottom: 1rem;
+}
+.summariesContent p {
+  text-align: justify;
+}
+.firstPictureContainer,
+.otherPicturesContainer {
+  width: 100%;
+}
+.firstPictureContainer img,
+.otherPicturesContainer img {
+  width: 100%;
+  object-fit: contain;
+  margin: 0.25rem 0;
+}

@@ -18,6 +18,9 @@ body {
 h2 {
   font-size: 1.75rem;
 }
+h3 {
+  font-size: 1.25rem;
+}
 a,
 button {
   padding: 0.5rem;

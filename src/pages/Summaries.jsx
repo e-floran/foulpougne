@@ -1,27 +1,18 @@
 import { Link } from "react-router-dom";
-import {useState, useEffect} from "react";
 
-import getSummaries from "../utils/apiConsuming";
+import data from "../utils/data/data.json";
+import "../styles/summaries.css";
 
-import "../components/styles/summaries.css";
-
-export default function Summaries(props){
-    const {logged}=props;
-    const [summariesList, setSummariesList] = useState([]);
-    
-    useEffect(()=>{
-        getSummaries(setSummariesList);
-    },[])
+export default function Summaries(){
     
     return(
         <div className="pageContainer">
             <section className="summariesMenu">
             <ul>
-            {summariesList.map((s) => (
-            <Link   key={s.id} to={"/summaries/"+ s.id} title={s.eventReference}><li>{s.eventReference}</li></Link>
+            {data.summaries.map((ev) => (
+            <Link   key={ev.id} to={"/summaries/"+ ev.id} title={ev.eventReference}><li>{ev.eventReference}</li></Link>
             ))}
             </ul>
-            {logged && <Link to="/add/" title="Ajout d'un résumé">Ajouter un résumé</Link>}
             
             </section>
             <section  className="summariesContent">
