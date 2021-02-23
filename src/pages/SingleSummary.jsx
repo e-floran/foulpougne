@@ -29,13 +29,13 @@ export default function SingleSummary(){
                 setPictures(stockPictures);
             };
         };
-        // console.log(summary, paragraphs, pictures);
+        console.log(summary, paragraphs, pictures);
     }, [id, summary]);
 
     return(
         <div className="pageContainer">
             <section  className="summariesContent">
-                <h2>{summary.eventTitle}</h2>
+                {/* <h2>{summary.eventTitle}</h2>
                 <h3>{summary.eventDate}</h3>
                 <article className="firstPictureContainer">
                     <img src={summary.eventPictures[0]} alt={summary.eventTitle} />
@@ -45,7 +45,7 @@ export default function SingleSummary(){
                 </article>
                 <article className="otherPicturesContainer">
                     {pictures}
-                </article>
+                </article> */}
             </section>
         </div>
     )

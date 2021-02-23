@@ -2,18 +2,25 @@ import { Link } from "react-router-dom";
 
 import "../styles/header.css";
 
-export default function Header(props){
-    const {logged}=props;
+export default function Header(){
     return(
         <header>
-            <img src="../../foulpougne-logo.jpg" alt="Foulpougne festival" className="logoImg"/>
+            <Link to="/" title="Accueil">
+                <img src="../../foulpougne-logo.jpg" alt="Foulpougne festival" className="logoImg"/>
+            </Link>
             <nav>
                 <ul>
-                    <Link to="/" title="Résumés de nos éditions précédentes">
-                        <li>Résumés</li>
+                    <Link to="/festival/" title="Présentation de Foulpougne Festival">
+                        <li>Le Festival</li>
                     </Link>
-                    <Link to="/login/" title="Connexion administrateur">
-                        <li>{logged ? "Déconnexion" : "Connexion"}</li>
+                    <Link to="/fullProgram/" title="Le programme de la prochaine édition">
+                        <li>Programme</li>
+                    </Link>
+                    <Link to="/informations/" title="Tous les tarifs et comment se rendre au festival">
+                        <li>Tarifs et infos pratiques</li>
+                    </Link>
+                    <Link to="/summaries/" title="Résumés de nos éditions précédentes">
+                        <li>Résumés</li>
                     </Link>
                 </ul>
             </nav>

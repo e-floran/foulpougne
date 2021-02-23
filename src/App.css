@@ -13,7 +13,13 @@ body {
   display: grid;
   grid-gap: 0;
   grid-template-columns: 100%;
-  padding: 0 1rem;
+  padding: 1rem;
+}
+.homeContent,
+.summariesContent {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: 100%;
 }
 h2 {
   font-size: 1.75rem;

@@ -1,0 +1,24 @@
+.homeContent h2,
+.homeContent p {
+  padding-bottom: 0.5rem;
+}
+.homeContent h2 {
+  margin-bottom: 1rem;
+}
+.homeContent p {
+  text-align: justify;
+}
+.homeDetailsContainer {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.homeDetailsContainer article {
+  width: 100%;
+  max-width: 250px;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

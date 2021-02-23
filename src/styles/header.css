@@ -9,6 +9,10 @@ header {
   margin: 0 auto;
   padding-bottom: 0.5rem;
 }
+header > a {
+  padding: 0;
+  border: none;
+}
 .logoImg {
   object-fit: contain;
 }
@@ -22,9 +26,14 @@ nav ul {
   grid-template-columns: 50% 50%;
   padding: 0 1rem;
 }
+@media only screen and (min-width: 800px) {
+  nav ul {
+    grid-template-columns: 25% 25% 25% 25%;
+  }
+}
 nav ul a {
   width: 100%;
-  margin: 0 auto 0 auto;
+  margin: 0.5rem auto;
   background-color: white;
 }
 nav ul a:hover {

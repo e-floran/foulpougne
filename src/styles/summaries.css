@@ -24,11 +24,11 @@
   background-color: white;
   box-shadow: 0.15rem 0.15rem var(--FPblack);
 }
-.summariesContent {
+/* .summariesContent {
   display: grid;
   grid-gap: 0;
   grid-template-columns: 100%;
-}
+} */
 .summariesContent h2,
 .summariesContent p {
   padding-bottom: 0.5rem;
