@@ -29,6 +29,7 @@ export default function SingleSummary(){
                 setPictures(stockPictures);
             };
         };
+        // eslint-disable-next-line
     }, [id, summary]);
 
     return(
