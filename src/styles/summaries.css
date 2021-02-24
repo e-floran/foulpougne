@@ -1,34 +1,29 @@
-.summariesMenu {
+.innerMenu {
   display: grid;
   grid-template-columns: 100%;
   margin-bottom: 1rem;
 }
-.summariesMenu ul {
+.innerMenu ul {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
   align-items: flex-start;
   padding: 0.5rem 1rem;
 }
-.summariesMenu ul a,
-.summariesMenu a {
+.innerMenu ul a,
+.innerMenu a {
   margin: 0 0.25rem 0.5em 0.25rem;
   width: 45%;
   background-color: var(--FPmain);
 }
-.summariesMenu > a {
+.innerMenu > a {
   margin: 0 auto 0.5em auto;
 }
 
-.summariesMenu a:hover {
+.innerMenu a:hover {
   background-color: white;
   box-shadow: 0.15rem 0.15rem var(--FPblack);
 }
-/* .summariesContent {
-  display: grid;
-  grid-gap: 0;
-  grid-template-columns: 100%;
-} */
 .summariesContent h2,
 .summariesContent p {
   padding-bottom: 0.5rem;
@@ -46,7 +41,8 @@
   width: 100%;
 }
 .firstPictureContainer img,
-.otherPicturesContainer img {
+.otherPicturesContainer img,
+.programContent > img {
   width: 100%;
   object-fit: contain;
   margin: 0.25rem 0;

@@ -7,7 +7,7 @@ export default function Summaries(){
     
     return(
         <div className="pageContainer">
-            <section className="summariesMenu">
+            <section className="innerMenu">
             <ul>
             {data.summaries.map((ev) => (
             <Link   key={ev.id} to={"/summaries/"+ ev.id} title={ev.eventReference}><li>{ev.eventReference}</li></Link>

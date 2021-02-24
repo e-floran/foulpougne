@@ -1,13 +1,11 @@
 .footerContainer {
-  position: absolute;
-  bottom: 0px;
   width: 100%;
   padding: 0.5rem 1rem;
-  margin-top: 1rem;
+  margin: 1rem auto 0 auto;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--FPmain);
 }
 .footerContainer > a {
@@ -16,10 +14,6 @@
 .footerContainer > a:hover {
   background-color: var(--FPmain);
   box-shadow: 0.15rem 0.15rem var(--FPblack);
-}
-.footerContainer > p {
-  position: relative;
-  top: 0.5rem;
 }
 .footerContainer > p > a {
   border: none;

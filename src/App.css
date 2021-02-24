@@ -2,23 +2,35 @@ body {
   width: 100vw;
   background-color: var(--FPmain);
 }
+.App,
+.App > div,
+.pageContainer,
+.homeContent,
+.summariesContent {
+  width: 100%;
+}
 .App {
   background-color: var(--FPmain);
+  max-width: 900px;
+  min-height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: center;
 }
 .pageContainer {
   margin: 0 auto;
   background-color: white;
-  width: 100%;
-  max-width: 900px;
   display: grid;
-  grid-gap: 0;
+  gap: 0;
   grid-template-columns: 100%;
   padding: 1rem;
 }
 .homeContent,
 .summariesContent {
   display: grid;
-  grid-gap: 0;
+  gap: 0;
   grid-template-columns: 100%;
 }
 h2 {

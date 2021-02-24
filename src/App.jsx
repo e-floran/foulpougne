@@ -17,36 +17,38 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
-      <Switch>
-        <Route exact path="/">
-          <Home />
-        </Route>
-        <Route exact path="/festival/">
-          <Festival />
-        </Route>
-        <Route exact path="/fullProgram/">
-          <FullProgram />
-        </Route>
-        <Route exact path="/fullProgram/friday/">
-          <Friday />
-        </Route>
-        <Route exact path="/fullProgram/saturday/">
-          <Saturday />
-        </Route>
-        <Route exact path="/fullProgram/sunday/">
-          <Sunday />
-        </Route>
-        <Route exact path="/informations/">
-          <Informations />
-        </Route>
-        <Route exact path="/summaries/">
-          <Summaries />
-        </Route>
-        <Route exact path="/summaries/:id">
-          <SingleSummary />
-        </Route>
-        </Switch>
+      <div>
+        <Header />
+        <Switch>
+          <Route exact path="/">
+            <Home />
+          </Route>
+          <Route exact path="/festival/">
+            <Festival />
+          </Route>
+          <Route exact path="/fullProgram/">
+            <FullProgram />
+          </Route>
+          <Route exact path="/fullProgram/friday/">
+            <Friday />
+          </Route>
+          <Route exact path="/fullProgram/saturday/">
+            <Saturday />
+          </Route>
+          <Route exact path="/fullProgram/sunday/">
+            <Sunday />
+          </Route>
+          <Route exact path="/informations/">
+            <Informations />
+          </Route>
+          <Route exact path="/summaries/">
+            <Summaries />
+          </Route>
+          <Route exact path="/summaries/:id">
+            <SingleSummary />
+          </Route>
+          </Switch>
+        </div>
         <Footer />
     </div>
   );

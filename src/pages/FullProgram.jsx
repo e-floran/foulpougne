@@ -6,7 +6,7 @@ export default function FullProgram(){
     
     return(
         <div className="pageContainer">
-            <section className="summariesMenu">
+            <section className="innerMenu">
             <ul>
             <Link to={"/fullProgram/friday/"} title="Le programme du vendredi"><li>Vendredi</li></Link>
             <Link to={"/fullProgram/saturday/"} title="Le programme du samedi"><li>Samedi</li></Link>
@@ -14,9 +14,10 @@ export default function FullProgram(){
             </ul>
             
             </section>
-            <section  className="summariesContent">
+            <section  className="summariesContent programContent">
                 <h2>24, 25 et 26 septembre</h2>
                 <h3>L'expo photo, avec Djamila Lemasle</h3>
+                <img src="/pictures/Djamila Lemasle - expo photo.jpg" alt="Djamila Lemasle" />
                 <p>Durant les trois jours que dure le festival, les danseurs et les musiciens pourront découvrir le travail de Djamila Lemasle, Danseuse, musicienne, photographe.</p>
                 <p>« Le virus m’a piquée quand j’étais ado, en Bretagne, où je passais mes vacances pour gagner trois francs six sous. J’y ai découvert les festou-noz. Une fois que l’on a le virus, il ne vous lâche plus ! » Djamila Lemasle, travailleuse sociale à la ville, valse autant avec les mots qu’avec son corps : elle demeure intarissable sur le sujet. Fidèle depuis des années du Grand Bal de l’Europe, qui se déroule à Gennetines (Allier), son regard s’illumine quand elle évoque ce tourbillon joyeux qui unit des hommes et des femmes « de tous âges et de tous milieux. C’est multiculturel ! On pense souvent que les danses trad’, ça n’attire que les vieux, mais pas du tout ». Avec ses appareils, Djamila fixe depuis longtemps ces regards qui se croisent, ces corps qui dansent, ces rires, ces sourires, ces jours et ces nuits sans fin où seules comptent la musique et la danse. La vie quoi !</p>
                 <h3>Le diaporama</h3>
