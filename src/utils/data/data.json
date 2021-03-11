@@ -1,64 +1,62 @@
 {
-    "summaries":[
-        {
-            "id" : 2017,
-            "eventReference" : "2017",
-            "eventDate" : "22, 23 et 24 septembre",
-            "eventTitle": "La première édition",
-            "eventText":[
-                "La première édition, menée en inter-associatif, jette les bases du projet : un « bœuf » musical pour lancer le week-end, deux stages de danse (danses débutants, danses du Poitou, avec Christian Pacher), deux stages de musique d’ensemble (thèmes : les bourrées à deux temps et les danses d’Estonie), une expo photos avec les clichés de Véronique Chochon, un bal folk avec le duo « Time to play » et le groupe qui écume alors les festivals, « Ciac Boum ».",
-                "Et pour finir en douceur, un beau pique-nique musical sous le soleil le dimanche sur l’île de Foulpougne. Le public suit bien l’évènement et décision est prise de poursuivre l’exercice."
-            ],
-            "eventPictures":[
-                "/pictures/Ciac Boum 2017.jpg",
-                "/pictures/Time to Play.png"
-            ]
-        },
-        {
-            "id" : 2018,
-            "eventReference" : "2018",
-            "eventDate" : "21, 22 et 23 septembre",
-            "eventTitle": "Une édition sous le signe du jumelage",
-            "eventText":[
-                "Durant l’hiver, une association est créée pour gérer le festival, car il y a de l’envie dans l’air et de la gourmandise. Le festival s’étoffe. Avec un stage de danses débutants, un stage de danses de Gascogne, une scène découverte animée par la « Crazy Chorale », le groupe « Isla » et le groupe portugais « Rancho Folclorico de Santa Maria de Covas do Barroso », dont la ville, Boticas, est jumelée avec Gond-Pontouvre.",
-                "L’expo est signée « Lublot » avec ses dessins des festivals trad’. Un diaporama retrace en boucle l’édition 2017 sur grand écran. Et deux bals folk sont proposés aux amateurs venus en force : avec, le vendredi soir, les groupes « Khaverim » et « Les yeux de Lilas », et le samedi soir, « Jonathan Dour Quartet » et « Noù »."
-            ],
-            "eventPictures":[
-                "/pictures/Groupe de Portugais 2018.jpg",
-                "/pictures/Foulpougne Festival 2018.jpg",
-                "/pictures/Dour - Le Pottier Quartet 2018.jpg",
-                "/pictures/Noù 2018.jpg",
-                "/pictures/Les yeux de Lilas 2018.JPG",
-                "/pictures/Khaverim 2018.JPG"
-            ]
-        },
-        {
-            "id" : 2019,
-            "eventReference" : "2019",
-            "eventDate" : "20, 21, 22 septembre",
-            "eventTitle": "Une édition très Berry et Bretagne",
-            "eventText":[
-                "La formule gagnante est reconduite. Au menu, un stage de danses débutants, un stage de danses du Berry tous niveaux avec David Roblin, la scène découverte avec les Bretons de Charente et Los Vironaires, un stage de musique d’ensemble animé par Cyril Berthet et l’expo photos est signée Eric Pouyet.",
-                "La nouveauté de l’année, c’est que Foulpougne Festival propose trois bals : « Mister Klof » le vendredi soir, Philippe Plard puis « Décibal » le samedi soir, et pour finir le festival en danses, le « p’tit bal » du dimanche après-midi, animé pour la première fois par Lucas Thébault."
-            ],
-            "eventPictures":[
-                "/pictures/Foulpougne Festival 2019.jpg",
-                "/pictures/Décibal 2019.jpg",
-                "/pictures/Lucas Thébault 2019.jpg",
-                "pictures/Mister Klof 2019.jpg"
-            ]
-        },
-        {
-            "id" : 2020,
-            "eventReference" : "2020",
-            "eventDate" : "25, 26, 27 septembre",
-            "eventTitle": "L'édition annulée...",
-            "eventText":[
-                "L’affiche était belle. Et l’envie était là. Mais la crise mondiale de la Covid-19 a bouleversé la donne : l’association, qui avait espéré jusqu’au dernier moment, a dû déclarer forfait au cœur du mois d’août. Et reporter l’ensemble de la manifestation à 2021. Se promettant de conserver la même programmation. "
-            ],
-            "eventPictures":[
-                
-            ]
-        }
-    ]
+  "summaries": [
+    {
+      "id": 2017,
+      "eventReference": "2017",
+      "eventDate": "22, 23 et 24 septembre",
+      "eventTitle": "La première édition",
+      "eventText": [
+        "La première édition, menée en inter-associatif, jette les bases du projet : un « bœuf » musical pour lancer le week-end, deux stages de danse (danses débutants, danses du Poitou, avec Christian Pacher), deux stages de musique d’ensemble (thèmes : les bourrées à deux temps et les danses d’Estonie), une expo photos avec les clichés de Véronique Chochon, un bal folk avec le duo « Time to play » et le groupe qui écume alors les festivals, « Ciac Boum ».",
+        "Et pour finir en douceur, un beau pique-nique musical sous le soleil le dimanche sur l’île de Foulpougne. Le public suit bien l’évènement et décision est prise de poursuivre l’exercice."
+      ],
+      "eventPictures": [
+        "/pictures/Ciac Boum 2017.jpg",
+        "/pictures/Time to Play.png"
+      ]
+    },
+    {
+      "id": 2018,
+      "eventReference": "2018",
+      "eventDate": "21, 22 et 23 septembre",
+      "eventTitle": "Une édition sous le signe du jumelage",
+      "eventText": [
+        "Durant l’hiver, une association est créée pour gérer le festival, car il y a de l’envie dans l’air et de la gourmandise. Le festival s’étoffe. Avec un stage de danses débutants, un stage de danses de Gascogne, une scène découverte animée par la « Crazy Chorale », le groupe « Isla » et le groupe portugais « Rancho Folclorico de Santa Maria de Covas do Barroso », dont la ville, Boticas, est jumelée avec Gond-Pontouvre.",
+        "L’expo est signée « Lublot » avec ses dessins des festivals trad’. Un diaporama retrace en boucle l’édition 2017 sur grand écran. Et deux bals folk sont proposés aux amateurs venus en force : avec, le vendredi soir, les groupes « Khaverim » et « Les yeux de Lilas », et le samedi soir, « Jonathan Dour Quartet » et « Noù »."
+      ],
+      "eventPictures": [
+        "/pictures/Groupe de Portugais 2018.jpg",
+        "/pictures/Foulpougne Festival 2018.jpg",
+        "/pictures/Dour - Le Pottier Quartet 2018.jpg",
+        "/pictures/Noù 2018.jpg",
+        "/pictures/Les yeux de Lilas 2018.JPG",
+        "/pictures/Khaverim 2018.JPG"
+      ]
+    },
+    {
+      "id": 2019,
+      "eventReference": "2019",
+      "eventDate": "20, 21, 22 septembre",
+      "eventTitle": "Une édition très Berry et Bretagne",
+      "eventText": [
+        "La formule gagnante est reconduite. Au menu, un stage de danses débutants, un stage de danses du Berry tous niveaux avec David Roblin, la scène découverte avec les Bretons de Charente et Los Vironaires, un stage de musique d’ensemble animé par Cyril Berthet et l’expo photos est signée Eric Pouyet.",
+        "La nouveauté de l’année, c’est que Foulpougne Festival propose trois bals : « Mister Klof » le vendredi soir, Philippe Plard puis « Décibal » le samedi soir, et pour finir le festival en danses, le « p’tit bal » du dimanche après-midi, animé pour la première fois par Lucas Thébault."
+      ],
+      "eventPictures": [
+        "/pictures/Foulpougne Festival 2019.jpg",
+        "/pictures/Décibal 2019.jpg",
+        "/pictures/Lucas Thébault 2019.jpg",
+        "/pictures/Mister Klof 2019.jpg"
+      ]
+    },
+    {
+      "id": 2020,
+      "eventReference": "2020",
+      "eventDate": "25, 26, 27 septembre",
+      "eventTitle": "L'édition annulée...",
+      "eventText": [
+        "L’affiche était belle. Et l’envie était là. Mais la crise mondiale de la Covid-19 a bouleversé la donne : l’association, qui avait espéré jusqu’au dernier moment, a dû déclarer forfait au cœur du mois d’août. Et reporter l’ensemble de la manifestation à 2021. Se promettant de conserver la même programmation. "
+      ],
+      "eventPictures": []
+    }
+  ]
 }

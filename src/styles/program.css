@@ -1,0 +1,9 @@
+.programContent {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+}
+.programContent > img {
+  max-width: 450px;
+  margin: 0.25rem auto;
+}
