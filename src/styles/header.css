@@ -41,6 +41,9 @@ nav ul a {
   width: 100%;
   margin: 0.5rem auto;
   background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 nav ul a:hover {
   background-color: var(--FPmain);

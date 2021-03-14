@@ -1,8 +1,23 @@
+import { Link } from "react-router-dom";
+
 import "../styles/home.css";
 
 export default function Saturday() {
   return (
     <div className="pageContainer">
+      <section className="innerMenu">
+        <ul>
+          <Link to={"/fullProgram/friday/"} title="Le programme du vendredi">
+            <li>Vendredi</li>
+          </Link>
+          <Link to={"/fullProgram/saturday/"} title="Le programme du samedi">
+            <li>Samedi</li>
+          </Link>
+          <Link to={"/fullProgram/sunday/"} title="Le programme du dimanche">
+            <li>Dimanche</li>
+          </Link>
+        </ul>
+      </section>
       <section className="homeContent">
         <h2>Samedi 25 septembre</h2>
         <div className="homeDetailsContainer programContent">
@@ -25,7 +40,7 @@ export default function Saturday() {
             groupe « Chaï »
           </h3>
           <img
-            src="/pictures/Stage danses Poitou avec Maria Alvarez et Benoît Guerbigny.JPG"
+            src="/pictures/Stage danses Poitou avec Maria Alvarez et Benoît Guerbigny.jpg"
             alt="Les danses du Poitou"
           />
           <p>
@@ -74,7 +89,7 @@ export default function Saturday() {
             les tables et les chaises qui vous tendent les bras (!).{" "}
           </p>
           <h3>21h-23h. Bal avec « Laüsa »</h3>
-          <img src="/pictures/Laüsa.JPG" alt="Laüsa" />
+          <img src="/pictures/Laüsa.jpg" alt="Laüsa" />
           <p>
             Laüsa (attention : il faut prononcer… lahuzo !), Laüsa, donc, c’est
             un voyage musical entre tradition héritée et imaginée, un témoignage
@@ -89,7 +104,7 @@ export default function Saturday() {
             Minvielle.
           </p>
           <h3>23h15-1h15. Bal avec « Chaï »</h3>
-          <img src="/pictures/Chaï.JPG" alt="Chaï" />
+          <img src="/pictures/Chaï.jpeg" alt="Chaï" />
           <p>
             « Trois cailloux nous bousculent, nous égratignent en nous
             propulsant dans un mouvement tourbillonnant de convivialité et
