@@ -13,7 +13,7 @@ export default function Informations() {
           </p>
           <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50</p>
           <p>Site internet : https://foulpougne.netlify.app/</p>
-          <p>Mail : …………………………</p>
+          <p>Mail : patservant@yahoo.fr</p>
           <h3>Le lieu</h3>
           <p>Salle des fêtes de Gond-Pontouvre (16)</p>
           <p>Coordonnées GPS : Latitude : 45.6672 / Longitude : 0.16127</p>
@@ -24,9 +24,9 @@ export default function Informations() {
             <p>Activité</p>
             <p>Tarif standard</p>
             <p>Tarif réduit</p>
-            <div />
-            <p>Stages</p>
-            <div />
+            <div className="pricingLeft" />
+            <p className="pricingCenter">Stages</p>
+            <div className="pricingRight" />
             <p>Danses débutants</p>
             <p>8€</p>
             <p>6€</p>
@@ -36,9 +36,9 @@ export default function Informations() {
             <p>Musique d’ensemble</p>
             <p>15€</p>
             <p>13€</p>
-            <div />
-            <p>Bals</p>
-            <div />
+            <div className="pricingLeft" />
+            <p className="pricingCenter">Bals</p>
+            <div className="pricingRight" />
             <p>Vendredi - Castanha é Vinovèl</p>
             <p>10€</p>
             <p>8€</p>
@@ -48,9 +48,9 @@ export default function Informations() {
             <p>Dimanche - Ma Petite</p>
             <p>10€</p>
             <p>8€</p>
-            <div />
-            <p>Pass</p>
-            <div />
+            <div className="pricingLeft" />
+            <p className="pricingCenter">Pass</p>
+            <div className="pricingRight" />
             <p>Pass festival</p>
             <p>50€</p>
             <p>40€</p>

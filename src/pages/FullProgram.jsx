@@ -28,7 +28,7 @@ export default function FullProgram() {
         />
         <p>
           Durant les trois jours que dure le festival, les danseurs et les
-          musiciens pourront découvrir le travail de Djamila Lemasle, Danseuse,
+          musiciens pourront découvrir le travail de Djamila Lemasle, danseuse,
           musicienne, photographe.
         </p>
         <p>
@@ -47,10 +47,7 @@ export default function FullProgram() {
           sans fin où seules comptent la musique et la danse. La vie quoi !
         </p>
         <h3>Le diaporama</h3>
-        <img
-          src="/pictures/Foulpougne Festival 2019.jpg"
-          alt="L'édition 2019"
-        />
+        <img src="/pictures/diaporama.JPG" alt="L'édition 2019" />
         <p>
           Ca danse, ça virevolte, ça tourne, ça sort des dièses et des bémols.
           Et puis des sourires aux anges, des rires fous, des mains qui ne se

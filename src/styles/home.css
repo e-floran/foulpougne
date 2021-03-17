@@ -1,14 +1,12 @@
-.homeContent h2,
+.homeContent h2 {
+  text-align: center;
+}
 .homeContent p {
   padding-bottom: 0.5rem;
-}
-.homeContent h2 {
-  margin-bottom: 1rem;
-}
-.homeContent p {
   text-align: justify;
 }
 .homeDetailsContainer {
+  margin-top: 1rem;
   width: 100%;
   display: flex;
   flex-flow: row wrap;
@@ -33,4 +31,14 @@
   text-align: center;
   height: 3rem;
   padding-top: 0.5rem;
+}
+.homeContent .pricing > .pricingLeft {
+  border-right: none;
+}
+.homeContent .pricing > .pricingCenter {
+  border-right: none;
+  border-left: none;
+}
+.homeContent .pricing > .pricingRight {
+  border-left: none;
 }

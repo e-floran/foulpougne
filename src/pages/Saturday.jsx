@@ -59,6 +59,10 @@ export default function Saturday() {
             14h-17h. Stage de musique d’ensemble animé par les musiciens de
             « Laüsa »
           </h3>
+          <img
+            src="/pictures/lausa atelier.jpg"
+            alt="Laüsa et les danses de Gascogne"
+          />
           <p>
             Laüsa, c’est la Gascogne dans ce tout qu’elle a de plus dynamique,
             de plus chaleureux, de plus enthousiasmant. Camille Raibaud (violon,
