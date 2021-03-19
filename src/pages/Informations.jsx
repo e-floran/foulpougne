@@ -12,8 +12,11 @@ export default function Informations() {
             Gond-Pontouvre
           </p>
           <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50</p>
-          <p>Site internet : https://foulpougne.netlify.app/</p>
+          <a href="https://foulpougne.netlify.app/">Notre site internet</a>
           <p>Mail : patservant@yahoo.fr</p>
+          <a href="https://www.facebook.com/FoulpougneFestival">
+            Notre page Facebook
+          </a>
           <h3>Le lieu</h3>
           <p>Salle des fêtes de Gond-Pontouvre (16)</p>
           <p>Coordonnées GPS : Latitude : 45.6672 / Longitude : 0.16127</p>

@@ -32,6 +32,23 @@
   height: 3rem;
   padding-top: 0.5rem;
 }
+.programContent > a,
+.programContent > a:visited {
+  border: none;
+  padding: 0;
+  max-width: none;
+  text-align: left;
+  font-family: "Lobster", cursive;
+  color: var(--FPmain);
+}
+.programContent > a:hover {
+  color: var(--FPblack);
+}
+.homeContent .pricing > .pricingLeft,
+.homeContent .pricing > .pricingCenter,
+.homeContent .pricing > .pricingRight {
+  background-color: var(--FPmain);
+}
 .homeContent .pricing > .pricingLeft {
   border-right: none;
 }

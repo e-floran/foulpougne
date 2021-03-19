@@ -14,6 +14,7 @@ export default function SingleSummary() {
   let stockPictures = [];
 
   useEffect(() => {
+    setPictures(null);
     setSummary(() => {
       return data.summaries.find((ev) => ev.eventReference === id);
     });

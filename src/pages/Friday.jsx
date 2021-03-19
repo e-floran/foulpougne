@@ -20,8 +20,9 @@ export default function Friday() {
       </section>
       <section className="homeContent">
         <h2>Vendredi 24 septembre</h2>
-        <div className="homeDetailsContainer">
+        <div className="homeDetailsContainer programContent">
           <h3>21 heures. Le bal, avec « Castanha é Vinovèl »</h3>
+          <img src="/pictures/Castanha.jpg" alt="Castanha é Vinovèl" />
           <p>
             « Castanha é Vinovèl », c’est un duo de « musicaïres » biterrois
             créé en 2007, qui puise ses chansons et ses airs à danser dans le
