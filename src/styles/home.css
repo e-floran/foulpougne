@@ -32,8 +32,11 @@
   height: 3rem;
   padding-top: 0.5rem;
 }
-.programContent > a,
-.programContent > a:visited {
+.programContent {
+  margin-top: 1rem;
+}
+.programContent a,
+.programContent a:visited {
   border: none;
   padding: 0;
   max-width: none;
@@ -41,7 +44,7 @@
   font-family: "Lobster", cursive;
   color: var(--FPmain);
 }
-.programContent > a:hover {
+.programContent a:hover {
   color: var(--FPblack);
 }
 .homeContent .pricing > .pricingLeft,
@@ -58,4 +61,28 @@
 }
 .homeContent .pricing > .pricingRight {
   border-left: none;
+}
+.buddysContainer {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.singleBuddy {
+  width: 45%;
+  min-width: 200px;
+  margin: 1rem 0;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.singleBuddy > p,
+.singleBuddy > a {
+  text-align: center;
+  width: 100%;
+}
+.buddyName {
+  font-size: 1.125rem;
 }

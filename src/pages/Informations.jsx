@@ -64,6 +64,121 @@ export default function Informations() {
           </p>
         </div>
       </section>
+      <section className="programContent">
+        <h3>Les sites internet des copains</h3>
+        <article className="buddysContainer">
+          <div className="singleBuddy">
+            <a href="https://traden16.wordpress.com/" className="buddyName">
+              Trad en 16 (Gond-Pontouvre)
+            </a>
+            <a href="https://www.facebook.com/Traden16" className="buddySocial">
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <p className="buddyName">Temps Danse Folk (Saint-Yrieix)</p>
+            <a
+              href="https://www.facebook.com/TempsDanseAreFolk/"
+              className="buddySocial"
+            >
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <a
+              href="https://sites.google.com/site/losvironaires/home"
+              className="buddyName"
+            >
+              Los Vironaires (Saint-Adjutory)
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <a href="http://www.lesrabalbots.sitew.fr/" className="buddyName">
+              Les Rabalbots (Fléac)
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <p className="buddyName">
+              Amicale des Bretons d’Angoulême et de la Charente (Angoulême)
+            </p>
+            <a
+              href="https://www.facebook.com/Amicale-des-Bretons-dAngoulême-et-de-la-Charente-567129210007467/"
+              className="buddySocial"
+            >
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <p className="buddyName">Carantam (Angoulême)</p>
+            <a
+              href="https://m.facebook.com/carantam.fr/?ref=page_internal&mt_nav=0"
+              className="buddySocial"
+            >
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <p className="buddyName">Isla (Saint-Yrieix)</p>
+            <a
+              href="https://www.facebook.com/groupeisla"
+              className="buddySocial"
+            >
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <p className="buddyName">Les bœufs d’Angoulême</p>
+            <a
+              href="https://www.facebook.com/groups/1517791418460216/?fref=ts"
+              className="buddySocial"
+            >
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <a href="http://www.balrousse.sitew.fr/" className="buddyName">
+              Balrousse (Garat)
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <a href="http://balensoir.simplesite.com/" className="buddyName">
+              Bal en Soir (Salles d’Angles)
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <p className="buddyName">La Ronde des Fins Bois (Rouillac)</p>
+            <p>Leur numéro de téléphone : 05 45 21 79 48</p>
+          </div>
+          <div className="singleBuddy">
+            <p className="buddyName">Lo Gerbo Baudo (Confolens)</p>
+            <a
+              href="https://www.facebook.com/logerbobaudo"
+              className="buddySocial"
+            >
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <a
+              href="https://feunouvia.wixsite.com/feunouvia"
+              className="buddyName"
+            >
+              Feu Nouvia (Préguillac – Charente-Maritime)
+            </a>
+            <a
+              href="https://www.facebook.com/Feu-Nouvia-1681356052128178/"
+              className="buddySocial"
+            >
+              Leur page Facebook
+            </a>
+          </div>
+          <div className="singleBuddy">
+            <a href="https://www.lesetournias.fr/" className="buddyName">
+              Les Etournias (Puilboreau – Charente-Maritime)
+            </a>
+          </div>
+        </article>
+      </section>
     </div>
   );
 }
