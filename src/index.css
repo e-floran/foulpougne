@@ -1,7 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
 :root {
-  --FPmain: #f7a900;
+  /* --FPmain: #f7a900; */
+  --FPmain: #facf7a;
+  --FPmainAlt: #f7a900;
   --FPblack: #050008;
   --FPwhite: #eeeeff;
   font-size: 12px;
@@ -113,6 +116,9 @@ section {
 body {
   line-height: 1;
   font-family: "Lobster", cursive;
+}
+p {
+  font-family: "Open Sans", sans-serif;
 }
 ol,
 ul {

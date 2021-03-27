@@ -6,14 +6,18 @@
   flex-flow: row nowrap;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--FPmain);
+  background-color: var(--FPmainAlt);
 }
 .footerContainer > a {
   background-color: white;
 }
 .footerContainer > a:hover {
-  background-color: var(--FPmain);
+  background-color: var(--FPmainAlt);
   box-shadow: 0.15rem 0.15rem var(--FPblack);
+}
+.footerContainer > p,
+.footerContainer > p > a {
+  font-family: "Lobster", cursive;
 }
 .footerContainer > p > a {
   border: none;

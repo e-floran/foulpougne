@@ -64,7 +64,7 @@ export default function Saturday() {
             alt="Laüsa et les danses de Gascogne"
           />
           <p>
-            Laüsa, c’est la Gascogne dans ce tout qu’elle a de plus dynamique,
+            Laüsa, c’est la Gascogne dans tout ce qu’elle a de plus dynamique,
             de plus chaleureux, de plus enthousiasmant. Camille Raibaud (violon,
             mandoline), Lolita Delmonteil Ayral (accordéon diatonique), Juliette
             Minvielle (chant, percussions) et Julien Estèves (bouzouki, guitare)

@@ -46,6 +46,6 @@ nav ul a {
   flex-direction: column;
 }
 nav ul a:hover {
-  background-color: var(--FPmain);
+  background-color: var(--FPmainAlt);
   box-shadow: 0.15rem 0.15rem var(--FPblack);
 }

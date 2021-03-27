@@ -18,7 +18,9 @@ export default function Informations() {
             Notre page Facebook
           </a>
           <h3>Le lieu</h3>
-          <p>Salle des fêtes de Gond-Pontouvre (16)</p>
+          <p>
+            Salle des fêtes, avenue du Général-De-Gaulle, Gond-Pontouvre (16)
+          </p>
           <p>Coordonnées GPS : Latitude : 45.6672 / Longitude : 0.16127</p>
           <h3>Restauration</h3>
           <p>Foodtrucks et buvettes sur le site.</p>
