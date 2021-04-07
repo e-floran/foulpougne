@@ -39,11 +39,16 @@
 .firstPictureContainer,
 .otherPicturesContainer {
   width: 100%;
+  display: grid;
+  gap: 0;
+  grid-template-columns: 100%;
+  justify-content: flex-start;
 }
 .firstPictureContainer img,
 .otherPicturesContainer img,
 .programContent > img {
   width: 100%;
+  max-width: 450px;
   object-fit: contain;
-  margin: 0.25rem 0;
+  margin: 0.25rem auto;
 }

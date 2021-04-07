@@ -7,7 +7,7 @@
   --FPmainAlt: #f7a900;
   --FPblack: #050008;
   --FPwhite: #eeeeff;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 html,
@@ -115,9 +115,6 @@ section {
 }
 body {
   line-height: 1;
-  font-family: "Lobster", cursive;
-}
-p {
   font-family: "Open Sans", sans-serif;
 }
 ol,
@@ -144,21 +141,21 @@ a {
 }
 @media only screen and (min-width: 401px) {
   :root {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 @media only screen and (min-width: 601px) {
   :root {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 @media only screen and (min-width: 801px) {
   :root {
-    font-size: 18px;
+    font-size: 17px;
   }
 }
 @media only screen and (min-width: 1001px) {
   :root {
-    font-size: 20px;
+    font-size: 19px;
   }
 }

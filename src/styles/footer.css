@@ -15,10 +15,7 @@
   background-color: var(--FPmainAlt);
   box-shadow: 0.15rem 0.15rem var(--FPblack);
 }
-.footerContainer > p,
-.footerContainer > p > a {
-  font-family: "Lobster", cursive;
-}
+
 .footerContainer > p > a {
   border: none;
   padding: 0;
