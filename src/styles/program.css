@@ -3,7 +3,14 @@
   flex-flow: column nowrap;
   justify-content: flex-start;
 }
-.programContent > img {
+.programContent > a {
+  width: fit-content;
+}
+.programContent > a:nth-child(3) {
+  margin: 0 auto;
+}
+.programContent > img,
+.programContent > a > img {
   max-width: 450px;
   margin: 0.25rem auto;
 }

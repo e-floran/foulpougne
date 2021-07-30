@@ -13,7 +13,7 @@
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-around;
+  justify-content: space-between;
   gap: 1rem;
 }
 .homeDetailsContainer article {
@@ -24,11 +24,25 @@
   justify-content: flex-start;
   align-items: flex-start;
 }
+.homeCovidContainer > article {
+  max-width: 100%;
+}
+.homeCovidContainer > img {
+  max-width: 450px;
+  margin: 0.25rem auto;
+}
+.homeCovidContainer ul {
+  width: 100%;
+  max-width: 800px;
+  list-style-type: circle;
+  margin: 0 1.5rem;
+}
 .homeDetailsContainer .pricing {
   display: grid;
   grid-template-columns: 33% 33% 33%;
   max-width: 100%;
 }
+
 .homeContent .pricing > * {
   border: 0.1rem solid var(--FPblack);
   text-align: center;
