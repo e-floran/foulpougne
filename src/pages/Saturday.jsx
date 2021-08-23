@@ -92,22 +92,7 @@ export default function Saturday() {
             et en danse en attendant le dîner. Avec la p’tite buvette ambulante,
             les tables et les chaises qui vous tendent les bras (!).{" "}
           </p>
-          <h3>21h-23h. Bal avec « Laüsa »</h3>
-          <img src="/pictures/Laüsa.jpg" alt="Laüsa" />
-          <p>
-            Laüsa (attention : il faut prononcer… lahuzo !), Laüsa, donc, c’est
-            un voyage musical entre tradition héritée et imaginée, un témoignage
-            vivant qui rappelle que les peuples se sont rencontrés sur une terre
-            d'accueil et que les musiques se sont mêlées. Les instruments sont
-            traditionnels, le son actuel. Laüsa puise des influences dans le
-            folk, la pop, le rock, flirte avec des couleurs méditerranéennes ou
-            africaines, tout en restant fidèle à la cadence du bal gascon. Laüsa
-            affirme son ancrage en terre gasconne, et son appartenance au monde,
-            ouvert, curieux, généreux et respectueux des origines. Avec Lolita
-            Delmonteil Ayral, Camille Raibaud, Julien Estèves, Juliette
-            Minvielle.
-          </p>
-          <h3>23h15-1h15. Bal avec « Chaï »</h3>
+          <h3>21h-23h. Bal avec « Chaï »</h3>
           <img src="/pictures/Chaï.jpeg" alt="Chaï" />
           <p>
             « Trois cailloux nous bousculent, nous égratignent en nous
@@ -124,6 +109,21 @@ export default function Saturday() {
             avant-deux endiablés, des maraîchines sulfureuses… Avec Benoît
             Guerbigny à l’accordéon, Gabriel Lenoir et Corentin Boizot-Blaise au
             violon.
+          </p>
+          <h3>23h15-1h15. Bal avec « Laüsa »</h3>
+          <img src="/pictures/Laüsa.jpg" alt="Laüsa" />
+          <p>
+            Laüsa (attention : il faut prononcer… lahuzo !), Laüsa, donc, c’est
+            un voyage musical entre tradition héritée et imaginée, un témoignage
+            vivant qui rappelle que les peuples se sont rencontrés sur une terre
+            d'accueil et que les musiques se sont mêlées. Les instruments sont
+            traditionnels, le son actuel. Laüsa puise des influences dans le
+            folk, la pop, le rock, flirte avec des couleurs méditerranéennes ou
+            africaines, tout en restant fidèle à la cadence du bal gascon. Laüsa
+            affirme son ancrage en terre gasconne, et son appartenance au monde,
+            ouvert, curieux, généreux et respectueux des origines. Avec Lolita
+            Delmonteil Ayral, Camille Raibaud, Julien Estèves, Juliette
+            Minvielle.
           </p>
         </div>
       </section>
