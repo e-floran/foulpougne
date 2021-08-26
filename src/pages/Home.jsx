@@ -9,7 +9,7 @@ export default function Home() {
         <div className="homeDetailsContainer">
           <article>
             <h3>Vendredi 24</h3>
-            <p>Bal d’ouverture du festival avec « Castanha é Vinovèl ».</p>
+            <p>Bal surprise pour l’ouverture du festival.</p>
           </article>
           <article>
             <h3>Samedi 25</h3>
@@ -18,7 +18,7 @@ export default function Home() {
               danses (stage danses débutants et stage danses du Poitou),
               « l’Entre Deux » (scène découverte), rencontres, expo photos…
             </p>
-            <p>Double bal avec « Laüsa » puis avec « Chaï ».</p>
+            <p>Double bal avec « Chaï » puis avec « Laüsa ».</p>
           </article>
           <article>
             <h3>Dimanche 26</h3>
