@@ -9,7 +9,10 @@ export default function Home() {
         <div className="homeDetailsContainer">
           <article>
             <h3>Vendredi 24</h3>
-            <p>Bal surprise pour l’ouverture du festival.</p>
+            <p>
+              Le grand bal d'ouverture avec le duo Benoît Roblin - Christian
+              Pacher
+            </p>
           </article>
           <article>
             <h3>Samedi 25</h3>
