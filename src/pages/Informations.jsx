@@ -8,12 +8,12 @@ export default function Informations() {
         <div className="homeDetailsContainer programContent">
           <h3>Contact et renseignements</h3>
           <a
-            href="/pictures/fiche_inscription_2021.jpg"
+            href="/pictures/fiche_inscription_2021.pdf"
             download="fiche_inscription_foulpougne_2021"
           >
-            La fiche d'inscription 2021
+            Téléchargez la fiche d'inscription 2021
           </a>
-          <a
+          {/* <a
             href="/pictures/fiche_inscription_2021.jpg"
             download="fiche_inscription_foulpougne_2021"
           >
@@ -21,7 +21,7 @@ export default function Informations() {
               src="/pictures/fiche_inscription_2021.jpg"
               alt="La fiche d'inscription 2021"
             ></img>
-          </a>
+          </a> */}
           <p>
             Adresse postale : Foulpougne Festival, 5 Cité des Peupliers, 16160,
             Gond-Pontouvre
