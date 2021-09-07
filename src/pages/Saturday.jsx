@@ -79,10 +79,8 @@ export default function Saturday() {
             papier et un crayon. Et le cas échéant, un enregistreur.
           </p>
           <h3>17h-19h. La scène découverte</h3>
-          <img
-            src="/pictures/La scène découverte.JPG"
-            alt="La scène découverte"
-          />
+          <img src="/pictures/DuoBarHé.jpg" alt="Le duo BarHé" />
+          <img src="/pictures/ata.jpg" alt="Le duo ATA" />
           <p>
             Le stage de danses du Poitou vient de se terminer. Et le stage de
             musique d’ensemble a égrainé ses ultimes notes. C’est l’heure de
