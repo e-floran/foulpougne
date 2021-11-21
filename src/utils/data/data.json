@@ -58,6 +58,14 @@
         "L’affiche était belle. Et l’envie était là. Mais la crise mondiale de la Covid-19 a bouleversé la donne : l’association, qui avait espéré jusqu’au dernier moment, a dû déclarer forfait au cœur du mois d’août. Et reporter l’ensemble de la manifestation à 2021. Que l’on se rassure : la programmation 2020 a été intégralement reportée à 2021, et cette fois, sans danse macabre ! "
       ],
       "eventPictures": ["/pictures/macabre.jpg"]
+    },
+    {
+      "id": 2021,
+      "eventReference": "2021",
+      "eventDate": "24, 25, 26 septembre",
+      "eventTitle": "À venir",
+      "eventText": [" "],
+      "eventPictures": ["/pictures/affiche_2021.jpg"]
     }
   ]
 }

@@ -5,30 +5,19 @@ export default function Home() {
     <div className="pageContainer">
       <section className="homeContent">
         <h2>La prochaine édition du festival aura lieu</h2>
-        <h2> du 24 au 26 septembre 2021</h2>
+        <h2> du 23 au 25 septembre 2022</h2>
         <div className="homeDetailsContainer">
           <article>
-            <h3>Vendredi 24</h3>
-            <p>
-              Le grand bal d'ouverture avec le duo Benoît Roblin - Christian
-              Pacher
-            </p>
+            <h3>Vendredi 23</h3>
+            <p>À venir</p>
           </article>
           <article>
-            <h3>Samedi 25</h3>
-            <p>
-              Stages de musique d’ensemble (répertoire Gascogne), stages de
-              danses (stage danses débutants et stage danses du Poitou),
-              « l’Entre Deux » (scène découverte), rencontres, expo photos…
-            </p>
-            <p>Double bal avec « Chaï » puis avec « Laüsa ».</p>
+            <h3>Samedi 24</h3>
+            <p>À venir</p>
           </article>
           <article>
-            <h3>Dimanche 26</h3>
-            <p>
-              Le casse-croûte sympa et le p’tit bal de clôture avec « Ma
-              Petite ».
-            </p>
+            <h3>Dimanche 25</h3>
+            <p>À venir</p>
           </article>
         </div>
         <div className="homeDetailsContainer homeCovidContainer">
@@ -57,10 +46,10 @@ export default function Home() {
               </li>
             </ul>
           </article>
-          <img
+          {/* <img
             src="/pictures/affiche_2021.jpg"
             alt="L'affiche de l'édition 2021"
-          ></img>
+          ></img> */}
         </div>
       </section>
     </div>

@@ -7,12 +7,12 @@ export default function Informations() {
         <h2>Tarifs et informations pratiques</h2>
         <div className="homeDetailsContainer programContent">
           <h3>Contact et renseignements</h3>
-          <a
+          {/* <a
             href="/pictures/fiche_inscription_2021.pdf"
             download="fiche_inscription_foulpougne_2021"
           >
             Téléchargez la fiche d'inscription 2021
-          </a>
+          </a> */}
           {/* <a
             href="/pictures/fiche_inscription_2021.jpg"
             download="fiche_inscription_foulpougne_2021"
@@ -39,7 +39,7 @@ export default function Informations() {
           <p>Coordonnées GPS : Latitude : 45.6672 / Longitude : 0.16127</p>
           <h3>Restauration</h3>
           <p>Foodtrucks et buvettes sur le site.</p>
-          <h3>Les tarifs</h3>
+          {/* <h3>Les tarifs</h3>
           <article className="pricing">
             <p>Activité</p>
             <p>Tarif standard</p>
@@ -78,7 +78,7 @@ export default function Informations() {
           <p>
             Tarif réduit : adhérents de l’association Foulpougne Festival,
             jeunes de 12 à 18 ans, demandeurs d’emploi.
-          </p>
+          </p> */}
         </div>
       </section>
       <section className="programContent">

@@ -20,9 +20,9 @@ export default function FullProgram() {
         </ul>
       </section>
       <section className="summariesContent programContent">
-        <h2>24, 25 et 26 septembre</h2>
-        <h3>L'expo photo, avec Djamila Lemasle</h3>
-        <img
+        <h2>23, 24 et 25 septembre</h2>
+        <h3>À venir</h3>
+        {/* <img
           src="/pictures/Djamila Lemasle - expo photo.jpg"
           alt="Djamila Lemasle"
         />
@@ -55,7 +55,7 @@ export default function FullProgram() {
           chaleur, du bonheur en images. C’est ça la photo : pour voir le
           meilleur de l’édition 2019. En boucle sur grand écran durant les trois
           jours du festival.
-        </p>
+        </p> */}
       </section>
     </div>
   );

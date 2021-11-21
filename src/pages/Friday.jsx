@@ -19,8 +19,8 @@ export default function Friday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Vendredi 24 septembre</h2>
-        <div className="homeDetailsContainer programContent">
+        <h2>Vendredi 23 septembre</h2>
+        {/* <div className="homeDetailsContainer programContent">
           <h3>
             21 heures. Le grand bal d'ouverture avec le duo Benoît Roblin -
             Christian Pacher
@@ -38,7 +38,7 @@ export default function Friday() {
             accordéons et au chant, et de Benoît Roblin à la vielle à roue et au
             chant. Le duo est inédit et à ne manquer sous aucun prétexte.{" "}
           </p>
-        </div>
+        </div> */}
       </section>
     </div>
   );

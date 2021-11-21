@@ -19,8 +19,8 @@ export default function Sunday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Dimanche 26 septembre</h2>
-        <div className="homeDetailsContainer programContent">
+        <h2>Dimanche 25 septembre</h2>
+        {/* <div className="homeDetailsContainer programContent">
           <h3>15h-17h. Le p’tit bal avec le groupe « Ma petite »</h3>
           <img src="/pictures/Ma petite.jpeg" alt="Ma petite" />
           <p>
@@ -41,7 +41,7 @@ export default function Sunday() {
             (percussions), Maxime Barbeau (accordéon diatonique) et Thomas
             Fossaert (saxophone).
           </p>
-        </div>
+        </div> */}
       </section>
     </div>
   );

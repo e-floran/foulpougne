@@ -19,8 +19,8 @@ export default function Saturday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Samedi 25 septembre</h2>
-        <div className="homeDetailsContainer programContent">
+        <h2>Samedi 24 septembre</h2>
+        {/* <div className="homeDetailsContainer programContent">
           <h3>10h-12h. Stage de danses débutants</h3>
           <img
             src="/pictures/Les stages de danses.jpg"
@@ -123,7 +123,7 @@ export default function Saturday() {
             Delmonteil Ayral, Camille Raibaud, Julien Estèves, Juliette
             Minvielle.
           </p>
-        </div>
+        </div> */}
       </section>
     </div>
   );
