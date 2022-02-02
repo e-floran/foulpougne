@@ -62,7 +62,7 @@
   max-width: none;
   text-align: left;
   font-family: "Open Sans", sans-serif;
-  color: var(--FPmain);
+  color: var(--FPmainAlt);
 }
 .programContent a:hover {
   color: var(--FPblack);

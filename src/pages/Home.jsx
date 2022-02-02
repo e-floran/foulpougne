@@ -26,7 +26,7 @@ export default function Home() {
               Le cadre sanitaire national s’imposant à tous, la réglementation
               relative au pass sanitaire s’appliquera à Foulpougne Festival.
             </h3>
-            <p>
+            {/* <p>
               Pour les stages et les bals, il sera obligatoire de pouvoir
               présenter :
             </p>
@@ -44,7 +44,7 @@ export default function Home() {
                 attestant du rétablissement de la Covid-19 (datant d’au moins 11
                 jours et de moins de 6 mois)
               </li>
-            </ul>
+            </ul> */}
           </article>
           {/* <img
             src="/pictures/affiche_2021.jpg"

@@ -63,9 +63,19 @@
       "id": 2021,
       "eventReference": "2021",
       "eventDate": "24, 25, 26 septembre",
-      "eventTitle": "À venir",
-      "eventText": [" "],
-      "eventPictures": ["/pictures/affiche_2021.jpg"]
+      "eventTitle": "2021, l'année de la renaissance",
+      "eventText": [
+        "Après la très longue interruption dûe à l'épidémie de Covid-19, Foulpougne Festival retrouve ses habitués, en plus grand nombre encore, pour danser avec l'excellent duo formé par Christian Pacher et Benoit Roblin, en ouverture de festival. Le lendemain, grosse journée avec le stage de danses pour les débutants, le stage de danses du Poitou animé par Benoit Guerbigny et Maria Alvarez, le stage de musique d'ensemble animé par Camille Raibaud et la scène découverte, avec d'un côté le duo Barhé (Jean-Michel Hébras et Jean-Luc Barrault) et de l'autre, le duo ATa (Jean-Luc Goizet et Alain Hermanstadt). Grosse soirée le soir même avec Chaï en entrée suivi de Laüsa en plat de résistance. Et pour clore le festival, la parole est donnée aux quatre musiciens de Ma Petite. "
+      ],
+      "eventPictures": [
+        "/pictures/lausa_2021.jpg",
+        "/pictures/ata_2021.jpg",
+        "/pictures/chai_2021.jpg",
+        "/pictures/barhe_2021.jpg",
+        "/pictures/mapetite_2021.jpg",
+        "/pictures/roblinpacher_2021.jpg",
+        "/pictures/affiche_2021.jpg"
+      ]
     }
   ]
 }
