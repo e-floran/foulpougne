@@ -24,7 +24,7 @@ export default function Festival() {
             3èmes week-ends de septembre, pour assurer une rentrée festive et
             conviviale.
           </p>
-          <p>Place à la 4ème édition les 23, 24 et 25 septembre 2022.</p>
+          <p>Place à la 5ème édition les 23, 24 et 25 septembre 2022.</p>
         </div>
       </section>
     </div>

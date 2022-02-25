@@ -20,110 +20,131 @@ export default function Saturday() {
       </section>
       <section className="homeContent">
         <h2>Samedi 24 septembre</h2>
-        {/* <div className="homeDetailsContainer programContent">
-          <h3>10h-12h. Stage de danses débutants</h3>
+        <div className="homeDetailsContainer programContent">
+          <h4>10 heures : stage de danses débutants</h4>
           <img
-            src="/pictures/Les stages de danses.jpg"
-            alt="Les stages de danses"
+            src="/pictures/Stage danses débutants.jpg"
+            alt="danses débutants"
           />
           <p>
-            Les danses traditionnelles ne sont jamais compliquées. Tout un
-            chacun étant doté de deux jambes et de deux bras, rien n’est plus
-            simple que de se mettre à la gavotte de Poullaouen ou au congo de
-            Captieux. Bon, il est quand même nécessaire de savoir où se
-            trouvent… sa gauche et sa droite ! Une fois cela maîtrisé, on y va.
-            Un pas à droite, un demi-tour, un pas à gauche, un demi-tour, en
-            avant, en arrière… Facile !{" "}
+            Si vous avez deux pieds, deux jambes, deux bras, alors vous êtes
+            parfaitement équipés pour venir participer à ce stage qui ne demande
+            aucune disposition particulière. Si ce n’est un soupçon de curiosité
+            pour découvrir les danses traditionnelles, toujours très festives.
+            Avec les animateurs et les musiciens présents, vous irez à la
+            rencontre des grands classiques des bals folk : scottish, en dro,
+            polka, cercle circassien, bourrée, chapeloise…
           </p>
-          <h3>
-            14h-17h. Stage de danses du Poitou animé par Maria Alvarez et le
-            groupe « Chaï »
-          </h3>
+          <h4>10h-12h puis 14h-17h : stage de musique d’ensemble</h4>
           <img
-            src="/pictures/Stage danses Poitou avec Maria Alvarez et Benoît Guerbigny.jpg"
-            alt="Les danses du Poitou"
+            src="/pictures/Stage musique d'ensemble.JPG"
+            alt="musique d'ensemble"
           />
           <p>
-            Maria Alvarez et Benoît Guerbigny en connaissent un sacré rayon sur
-            les danses du Poitou. Ce sont eux qui animeront ce stage « tous
-            niveaux » en compagnie de leurs copains du groupe « Chaï ». Bien
-            sûr, les marchoises (à deux, à quatre, en ronde, en ligne, de
-            Magné…), les maraîchines (à deux, en rond, à quatre), les
-            avant-deux (à trois ou quatre figures, chorégraphiés ou « libre »,
-            spécifiques genre Coutant, Quatre coins, Brégeon…) feront partie du
-            programme. De même que les tout aussi prisés branle de Noirmoutier,
-            rond et demi-rond, grand danse, bal limousine, mardi gras, mouvante,
-            pas d’été… « Alors… Y est tou ? » comme le dit l’ami Benoît !
+            Rémi Geffroy sera l’artisan de ce stage qui s’étendra sur toute la
+            journée. Un stage ouvert à tous types d’instruments, pour aborder
+            ensemble des répertoires connus… ou moins connus. Il risque d’y
+            avoir de la surprise dans l’air !
           </p>
-          <h3>
-            14h-17h. Stage de musique d’ensemble animé par les musiciens de
-            « Laüsa »
-          </h3>
+          <p>
+            L’objectif étant de faire jouer ensemble un diato et une guitare, un
+            violon et une clarinette, une harpe et un nickelharpa (liste
+            d’instruments non exhaustive, bien sûr), il est nécessaire d’avoir
+            « apprivoisé » son propre instrument depuis deux ou trois ans pour
+            ne pas décrocher trop facilement.
+          </p>
+          <h4>12h : l’apéro !</h4>
+          <p>
+            Là aussi, c’est devenu une tradition : à midi pile, c’est l’heure de
+            l’ouverture officielle du festival. Trois blablas, deux
+            interventions, trois jeux de mots, et quelques kilos de sourires, et
+            c’est le p’tit apéro qui va bien. Histoire de bien lancer les
+            « hostilités » folk et trad’ !
+          </p>
+          <h4>14h-17h : stage de bourrées d’Auvergne</h4>
           <img
-            src="/pictures/lausa atelier.jpg"
-            alt="Laüsa et les danses de Gascogne"
+            src="/pictures/Stage bourrée d'Auvergne.webp"
+            alt="bourrée d'Auvergne"
           />
           <p>
-            Laüsa, c’est la Gascogne dans tout ce qu’elle a de plus dynamique,
-            de plus chaleureux, de plus enthousiasmant. Camille Raibaud (violon,
-            mandoline), Lolita Delmonteil Ayral (accordéon diatonique), Juliette
-            Minvielle (chant, percussions) et Julien Estèves (bouzouki, guitare)
-            -les quatre musiciens de Laüsa- seront les animateurs de ce stage.{" "}
+            Ce sont eux, les Auvergnats de « Komred » qui animeront le stage de
+            danses de ce samedi. Sans surprise, il y sera question de… bourrée à
+            3 temps. LA danse de chez eux, LA danse de leur prime jeunesse, LA
+            danse de leurs aïeux. Mais attention, il y a bourrée et bourrée. Et
+            les connaisseurs le savent : la bourrée peut se danser… en ligne, en
+            carré, en rond, en quadrette, croisée, droite… avec deux danseurs,
+            trois, quatre, six, huit… Sans oublier quelques formes bien
+            spécifiques pas toujours connues. De quoi découvrir plein de choses
+            tout au long de l’après-midi !
           </p>
+          <h4>17h-19h30 : la scène Découverte</h4>
           <p>
-            Au programme : apprentissage sur un répertoire simple et travail
-            autour de l'arrangement (harmonie, thèmes, "riffs", polyrythmie,
-            nuances...). Attention : un minimum de deux ans de pratique
-            instrumentale est souhaité. A noter également que tout se fera à
-            l'oral, c’est-à-dire sans partition. Ne pas oublier d’amener du
-            papier et un crayon. Et le cas échéant, un enregistreur.
+            Chaque année, depuis son origine, « Foulpougne Festival » a à cœur
+            de proposer un créneau aux groupes amateurs, qu’ils soient « du
+            pays » ou de beaucoup plus loin. Groupes jeunes, encore méconnus, ou
+            groupes plus anciens, la parole leur est donnée durant ce laps de
+            temps qui se situe entre la fin des stages et l’heure de… l’apéro
+            dinatoire ! Un espace gratuit, ouvert à tous, danseurs, visiteurs,
+            curieux, en plein air (si la météo le permet) ou bien à l’abri si
+            d’aventure Jupiter se mêle à la fête ! Un moment sympathique de
+            découverte et de mise en pratique.
           </p>
-          <h3>17h-19h. La scène découverte</h3>
-          <img src="/pictures/DuoBarHé.jpg" alt="Le duo BarHé" />
-          <img src="/pictures/ata.jpg" alt="Le duo ATA" />
+          <h4>19h30-21h : tous au ravitaillement !</h4>
           <p>
-            Le stage de danses du Poitou vient de se terminer. Et le stage de
-            musique d’ensemble a égrainé ses ultimes notes. C’est l’heure de
-            rejoindre l’esplanade de l’hôtel de ville, le coeur du festival. Car
-            là vous attendent d’autres musiciens, pour d’autres danses. C’est
-            « l’Entre Deux », la scène découverte, pour se détendre en musique
-            et en danse en attendant le dîner. Avec la p’tite buvette ambulante,
-            les tables et les chaises qui vous tendent les bras (!).{" "}
+            Vous avez préparé votre sandwich ? C’est parfait, c’est l’heure de
+            le sortir de la musette. Vous n’avez rien prévu ? Pas grave, vous
+            allez trouver sur place, sur l’esplanade de l’hôtel de ville, deux
+            foodtrucks prêts à vous proposer pas mal de choses très
+            appétissantes. Avec en prime, la buvette ambulante du festival à vos
+            côtés.
           </p>
-          <h3>21h-23h. Bal avec « Chaï »</h3>
-          <img src="/pictures/Chaï.jpeg" alt="Chaï" />
+          <h3>Double bal (bis) !</h3>
+          <h4>21h : bal avec « Komred »</h4>
+          <img src="/pictures/Komred.jpg" alt="Komred" />
           <p>
-            « Trois cailloux nous bousculent, nous égratignent en nous
-            propulsant dans un mouvement tourbillonnant de convivialité et
-            d’énergies que d’aucuns appelleraient bal ».
+            Depuis plus de quinze ans, ils tracent leur propre route, à force de
+            bals, de concerts, d’enregistrements, toujours plus loin dans cette
+            quête du son qui démange les pieds et chatouille le cœur. Komred,
+            c’est cela : cinq musiciens qui ont grandi ensemble à
+            Saint-Bonnet-près-Riom, au « Gamounet », chez les « Brayauds ». Là,
+            dans ce creuset auvergnat, au cœur de ce Puy-de-Dôme si attachant,
+            ils y ont appris les danses et les musiques populaires de « chez
+            eux », d’Auvergne. Leurs racines. Depuis 2003, ils font sonner leurs
+            bourrées partout en France et même parfois plus loin… De jolies
+            mélodies et du beau son pour un bal auvergnat sauvage et
+            chaleureux !
           </p>
+          <p>Antoine COGNET : banjo, guitare,</p>
+          <p>Clémence COGNET : violon, voix,</p>
+          <p>Cyril ETIENNE : clarinette,</p>
+          <p>Mathilde KARVAIX : clarinette, voix,</p>
+          <p>Loïc ETIENNE : accordéons diatoniques</p>
+          <h4>23h15 : bal avec les « Tralala Lovers »</h4>
+          <img src="/pictures/Tralala Lovers.jpg" alt="Tralala Lovers" />
           <p>
-            Ceux qui disent ça s’appellent Benoît, Gabriel et Corentin. Et ils
-            adorent l’ambiance du bal. Un bal qu’ils colorent aux sons
-            du Poitou, avec des esthétiques rugueuses où deux violons, un
-            accordéon et trois goules se frottent pour un bal traditionnel aux
-            sonorités résolument modernes. Une musique de territoire aux
-            arrangements sauvages, avec des marchoises virevoltantes, des
-            avant-deux endiablés, des maraîchines sulfureuses… Avec Benoît
-            Guerbigny à l’accordéon, Gabriel Lenoir et Corentin Boizot-Blaise au
-            violon.
+            Dire que les Tralala Lovers insufflent une énergie détonante dans la
+            grande galerie des musiques trad à danser relève de l’euphémisme.
+            Tellement les deux compères, Vincent Gaffet et Diego Meymarian,
+            chanteurs et multi-instrumentistes, proposent un bal euphorisant qui
+            mêle sans retenue des créations originales et une réinterprétation
+            très inventive du répertoire populaire. Sans sourciller, les deux
+            musiciens passent joyeusement de l’accordéon au tambourin, du violon
+            au banjo pour livrer de petites épopées ciselées, sautillantes et
+            romanesques qui ne s’inscrivent ni dans le passé, ni dans une mode
+            particulière d’un retour au trad. Un univers pop et acoustique, des
+            paroles malicieuses sur des airs que l’on reprend bien vite. De
+            scottish en polka, de valse en branle de Noirmoutier, le bal Tralala
+            constitue un véritable voyage folk qui mène aux quatre coins de
+            l’Europe. Attention : danseurs confirmés ou débutants pathétiques,
+            inutile de résister à l’appel du parquet, la contagieuse allégresse
+            de Diego et Vincent est comme le chant des sirènes !
           </p>
-          <h3>23h15-1h15. Bal avec « Laüsa »</h3>
-          <img src="/pictures/Laüsa.jpg" alt="Laüsa" />
+          <p>Vincent GAFFET : chant, violon, banjo, guimbarde</p>
           <p>
-            Laüsa (attention : il faut prononcer… lahuzo !), Laüsa, donc, c’est
-            un voyage musical entre tradition héritée et imaginée, un témoignage
-            vivant qui rappelle que les peuples se sont rencontrés sur une terre
-            d'accueil et que les musiques se sont mêlées. Les instruments sont
-            traditionnels, le son actuel. Laüsa puise des influences dans le
-            folk, la pop, le rock, flirte avec des couleurs méditerranéennes ou
-            africaines, tout en restant fidèle à la cadence du bal gascon. Laüsa
-            affirme son ancrage en terre gasconne, et son appartenance au monde,
-            ouvert, curieux, généreux et respectueux des origines. Avec Lolita
-            Delmonteil Ayral, Camille Raibaud, Julien Estèves, Juliette
-            Minvielle.
+            Diego MEYMARIAN : chant, accordéon, componium, guimbarde,
+            percussions
           </p>
-        </div> */}
+        </div>
       </section>
     </div>
   );

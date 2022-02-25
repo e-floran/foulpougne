@@ -15,6 +15,7 @@
   margin: 0 0.25rem 0.5em 0.25rem;
   width: 45%;
   background-color: var(--FPmainAlt);
+  transition: background-color 0.25s, box-shadow 0.25s;
 }
 .innerMenu > a {
   margin: 0 auto 0.5em auto;

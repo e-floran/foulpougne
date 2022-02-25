@@ -10,6 +10,7 @@
 }
 .footerContainer > a {
   background-color: white;
+  transition: background-color 0.25s, box-shadow 0.25s;
 }
 .footerContainer > a:hover {
   background-color: var(--FPmainAlt);

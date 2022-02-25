@@ -39,6 +39,12 @@ h2 {
 h3 {
   padding-top: 1rem;
   font-size: 1.25rem;
+  font-weight: bold;
+}
+h4 {
+  font-weight: bold;
+  font-size: 1.125rem;
+  padding-top: 0.5rem;
 }
 a,
 button {

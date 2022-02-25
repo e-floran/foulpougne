@@ -20,28 +20,32 @@ export default function Sunday() {
       </section>
       <section className="homeContent">
         <h2>Dimanche 25 septembre</h2>
-        {/* <div className="homeDetailsContainer programContent">
-          <h3>15h-17h. Le p’tit bal avec le groupe « Ma petite »</h3>
-          <img src="/pictures/Ma petite.jpeg" alt="Ma petite" />
+        <div className="homeDetailsContainer programContent">
+          <h4>15h, bal avec « Naragonia »</h4>
+          <img src="/pictures/Naragonia.jpg" alt="Naragonia" />
           <p>
-            Le répertoire de « Ma Petite » est issu du collectage engagé voici
-            plusieurs années par Perrine Vrignault qui a retenu des textes et
-            des musiques qui traitent de la condition de la femme. Cette
-            thématique est au cœur de l’identité du groupe. « Ma Petite »
-            propose une mise en danse de ces textes avec des sonorités
-            nouvelles, tout en conservant la structure des danses
-            traditionnelles. Les fins connaisseurs des bals folk y découvriront
-            -ou redécouvriront- des morceaux traditionnels mais avec des
-            sonorités modernes. “C’est un bal qui colle au corps pour le bonheur
-            de tous, et comme on est obligé de rien, il peut s’écouter également
-            les yeux fermés” décrit l’un de ces fins connaisseurs.{" "}
+            Ils nous arrivent du « grand nord » : de cette Flandre belge si
+            attachante, si riche, si étonnante. Fondé en 2003 lors du festival
+            « Andanças » au Portugal, Naragonia s’appuie dès le départ sur le
+            duo formé par Toon Van Mierlo (accordéon et cornemuse irlandaise) et
+            Pascale Rubens (accordéon). Le duo s’est ensuite métamorphosé en
+            quartet avec l’arrivée de Maarten Decombel (guitare et mandoline) et
+            de Luc Pilartz (violon). Le quatuor s’est très vite mis en avant,
+            grâce à son sens de la mélodie et surtout le doigté avec lequel il
+            met en évidence le son de chaque instrument. Au départ de quelques
+            notes d’accordéon diatonique, la mélodie s’éveille en douceur puis,
+            les autres instruments comme la guitare et le violon viennent alors
+            compléter le tableau musical, tout en restant des plus mélodiques.
+            Entre « néo-classique » et « néotrad », toujours ancrée dans les
+            traditions d’ici et d’ailleurs, la musique ou plutôt la mélodie de
+            Naragonia invite à une écoute attentive car ici, c’est encore une
+            fois l’essence des instruments qui est mis en valeur.
           </p>
-          <p>
-            Avec Perrine Vrignault (voix, accordéon), Maxime Dancre
-            (percussions), Maxime Barbeau (accordéon diatonique) et Thomas
-            Fossaert (saxophone).
-          </p>
-        </div> */}
+          <p>Pascale RUBENS : accordéon diatonique, violon</p>
+          <p>Toon VAN MIERLO : accordéon diatonique, cornemuse</p>
+          <p>Luc PILARTZ : violon</p>
+          <p>Maarten DECOMBEL : mandole, guitare</p>
+        </div>
       </section>
     </div>
   );

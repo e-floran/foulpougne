@@ -44,6 +44,7 @@ nav ul a {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  transition: background-color 0.25s, box-shadow 0.25s;
 }
 nav ul a:hover {
   background-color: var(--FPmainAlt);
