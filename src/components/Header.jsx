@@ -17,7 +17,10 @@ export default function Header() {
           <Link to="/festival/" title="Présentation de Foulpougne Festival">
             <li>Le Festival</li>
           </Link>
-          <Link to="/fullProgram/" title="Le programme de la prochaine édition">
+          <Link
+            to="/fullProgram/friday/"
+            title="Le programme de la prochaine édition"
+          >
             <li>Programme</li>
           </Link>
           <Link

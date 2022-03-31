@@ -6,7 +6,7 @@ export default function Home() {
       <section className="homeContent">
         <h2>La prochaine édition du festival aura lieu</h2>
         <h2> du 23 au 25 septembre 2022</h2>
-        <div className="homeDetailsContainer">
+        {/* <div className="homeDetailsContainer">
           <article>
             <h3>Vendredi 23</h3>
             <p>À venir</p>
@@ -19,12 +19,12 @@ export default function Home() {
             <h3>Dimanche 25</h3>
             <p>À venir</p>
           </article>
-        </div>
+        </div> */}
         <div className="homeDetailsContainer homeCovidContainer">
           <article>
             <h3>
-              Le cadre sanitaire national s’imposant à tous, la réglementation
-              relative au pass sanitaire s’appliquera à Foulpougne Festival.
+              La réglementation sanitaire en vigueur au moment du festival sera
+              appliquée.
             </h3>
             {/* <p>
               Pour les stages et les bals, il sera obligatoire de pouvoir

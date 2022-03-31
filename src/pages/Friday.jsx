@@ -26,23 +26,23 @@ export default function Friday() {
             src="/pictures/Duo-Roblin-Pacher_saison.png"
             alt="Le duo Roblin Pacher"
           /> */}
-          <h4>20h30 : bal avec « Traez »</h4>
+          <h4>20h30 : bal avec « Trio Traezh »</h4>
           <p>
             Voilà un trio qui nous arrive de Bretagne pour ouvrir le festival
-            2022 ! « Traez », en breton, c’est la grève… Non, non, pas la grève
-            à la mode syndicalo-râleuse, mais plutôt ce vaste espace maritime
-            qui se découvre à marée basse, humide, riche, sablonneux, vivifiant
-            quand le vent d’Ouest vient le caresser. C’est là, sur cette grève
-            que l’on peut s’initier à toutes les danses bretonnes, bien sûr,
-            mais pas que... Car Camille (violoncelle), Philippe (accordéons) et
-            Cécile (clarinette) proposent une palette musicale extrêmement
-            variée, véritable voyage dans le temps et dans l’espace. Entre ridée
-            et polka, entre scottish et mazurka. En avant ! Cécile SIX :
-            clarinette, Camille GUITTET : violoncelle, Philippe SOUFFOIS :
+            2022 ! « Trio Traezh », en breton, c’est la grève… Non, non, pas la
+            grève à la mode syndicalo-râleuse, mais plutôt ce vaste espace
+            maritime qui se découvre à marée basse, humide, riche, sablonneux,
+            vivifiant quand le vent d’Ouest vient le caresser. C’est là, sur
+            cette grève que l’on peut s’initier à toutes les danses bretonnes,
+            bien sûr, mais pas que... Car Christophe (guitare), Philippe
+            (accordéons) et Cécile (clarinette) proposent une palette musicale
+            extrêmement variée, véritable voyage dans le temps et dans l’espace.
+            Entre ridée et polka, entre scottish et mazurka. En avant ! Cécile
+            SIX : clarinette, Camille GUITTET : violoncelle, Philippe SOUFFOIS :
             accordéon diatonique et chromatique, tin et low whistles
           </p>
           <p>Cécile SIX : clarinette,</p>
-          <p>Camille GUITTET : violoncelle,</p>
+          <p>Christophe LEFÈVRE : guitare,</p>
           <p>
             Philippe SOUFFOIS : accordéon diatonique et chromatique, tin et low
             whistles
