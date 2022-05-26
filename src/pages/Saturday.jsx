@@ -78,6 +78,7 @@ export default function Saturday() {
             tout au long de l’après-midi !
           </p>
           <h4>17h-19h30 : la scène Découverte</h4>
+          <img src="/pictures/Socam.jpg" alt="Socam" />
           <p>
             Chaque année, depuis son origine, « Foulpougne Festival » a à cœur
             de proposer un créneau aux groupes amateurs, qu’ils soient « du
@@ -87,7 +88,10 @@ export default function Saturday() {
             dinatoire ! Un espace gratuit, ouvert à tous, danseurs, visiteurs,
             curieux, en plein air (si la météo le permet) ou bien à l’abri si
             d’aventure Jupiter se mêle à la fête ! Un moment sympathique de
-            découverte et de mise en pratique.
+            découverte et de mise en pratique. Cette année, Foulpougne Festival
+            donne la parole au trio "Socam" qui arrive de la région bordelaise.
+            Avec Thomas Doornenbal (accordéon), Suzanne Rambaldi (boha, flûtes),
+            Léo Charly (banjo).
           </p>
           <h4>19h30-21h : tous au ravitaillement !</h4>
           <p>

@@ -22,10 +22,7 @@ export default function Friday() {
         <h2>Vendredi 23 septembre</h2>
         <div className="homeDetailsContainer programContent">
           <h3>20h30 : double bal en ouverture !</h3>
-          {/* <img
-            src="/pictures/Duo-Roblin-Pacher_saison.png"
-            alt="Le duo Roblin Pacher"
-          /> */}
+          <img src="/pictures/trio_traezh.png" alt="Le Trio Traezh" />
           <h4>20h30 : bal avec « Trio Traezh »</h4>
           <p>
             Voilà un trio qui nous arrive de Bretagne pour ouvrir le festival
@@ -37,9 +34,7 @@ export default function Friday() {
             bien sûr, mais pas que... Car Christophe (guitare), Philippe
             (accordéons) et Cécile (clarinette) proposent une palette musicale
             extrêmement variée, véritable voyage dans le temps et dans l’espace.
-            Entre ridée et polka, entre scottish et mazurka. En avant ! Cécile
-            SIX : clarinette, Camille GUITTET : violoncelle, Philippe SOUFFOIS :
-            accordéon diatonique et chromatique, tin et low whistles
+            Entre ridée et polka, entre scottish et mazurka. En avant !
           </p>
           <p>Cécile SIX : clarinette,</p>
           <p>Christophe LEFÈVRE : guitare,</p>

@@ -7,12 +7,12 @@ export default function Informations() {
         <h2>Tarifs et informations pratiques</h2>
         <div className="homeDetailsContainer programContent">
           <h3>Contact et renseignements</h3>
-          {/* <a
-            href="/pictures/fiche_inscription_2021.pdf"
-            download="fiche_inscription_foulpougne_2021"
+          <a
+            href="/pictures/Plaquette_inscription_2022.docx"
+            download="fiche_inscription_foulpougne_2022.docx"
           >
-            Téléchargez la fiche d'inscription 2021
-          </a> */}
+            Téléchargez la fiche d'inscription 2022
+          </a>
           {/* <a
             href="/pictures/fiche_inscription_2021.jpg"
             download="fiche_inscription_foulpougne_2021"
