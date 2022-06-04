@@ -7,12 +7,12 @@ export default function Informations() {
         <h2>Tarifs et informations pratiques</h2>
         <div className="homeDetailsContainer programContent">
           <h3>Contact et renseignements</h3>
-          <a
+          {/* <a
             href="/pictures/Plaquette_inscription_2022.docx"
             download="fiche_inscription_foulpougne_2022.docx"
           >
             Téléchargez la fiche d'inscription 2022
-          </a>
+          </a> */}
           {/* <a
             href="/pictures/fiche_inscription_2021.jpg"
             download="fiche_inscription_foulpougne_2021"
@@ -27,7 +27,9 @@ export default function Informations() {
             Gond-Pontouvre
           </p>
           <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50</p>
-          <a href="https://foulpougne.netlify.app/">Notre site internet</a>
+          <a href="https://foulpougnefestival.netlify.app/">
+            Notre site internet
+          </a>
           <p>Mail : patservant@yahoo.fr</p>
           <a href="https://www.facebook.com/FoulpougneFestival">
             Notre page Facebook
@@ -39,7 +41,7 @@ export default function Informations() {
           <p>Coordonnées GPS : Latitude : 45.6672 / Longitude : 0.16127</p>
           <h3>Restauration</h3>
           <p>Foodtrucks et buvettes sur le site.</p>
-          {/* <h3>Les tarifs</h3>
+          <h3>Les tarifs</h3>
           <article className="pricing">
             <p>Activité</p>
             <p>Tarif standard</p>
@@ -49,36 +51,45 @@ export default function Informations() {
             <div className="pricingRight" />
             <p>Danses débutants</p>
             <p>8€</p>
-            <p>6€</p>
-            <p>Danses du Poitou</p>
+            <p>gratuit</p>
+            <p>Danses d'Auvergne</p>
             <p>15€</p>
-            <p>13€</p>
+            <p>12€</p>
             <p>Musique d’ensemble</p>
+            <p>20€</p>
             <p>15€</p>
-            <p>13€</p>
             <div className="pricingLeft" />
             <p className="pricingCenter">Bals</p>
             <div className="pricingRight" />
-            <p>Vendredi - Castanha é Vinovèl</p>
-            <p>10€</p>
-            <p>8€</p>
-            <p>Samedi - Laüsa et Chaï</p>
+            <p>Vendredi - Trio Traezh et Rémi Geffroy</p>
             <p>12€</p>
             <p>10€</p>
-            <p>Dimanche - Ma Petite</p>
+            <p>Samedi - Komred et Tralala Lovers</p>
+            <p>12€</p>
             <p>10€</p>
-            <p>8€</p>
+            <p>Dimanche - Naragonia</p>
+            <p>12€</p>
+            <p>10€</p>
             <div className="pricingLeft" />
             <p className="pricingCenter">Pass</p>
             <div className="pricingRight" />
-            <p>Pass festival</p>
-            <p>50€</p>
-            <p>40€</p>
+            <p>Pass festival (danse et 3 bals)</p>
+            <p>43€</p>
+            <p>36€</p>
+            <p>Pass festival (musique et 3 bals)</p>
+            <p>48€</p>
+            <p>39€</p>
+            <p>Pass samedi (danse et bal)</p>
+            <p>23€</p>
+            <p>19€</p>
+            <p>Pass samedi (musique et bal)</p>
+            <p>27€</p>
+            <p>21€</p>
           </article>
           <p>
             Tarif réduit : adhérents de l’association Foulpougne Festival,
             jeunes de 12 à 18 ans, demandeurs d’emploi.
-          </p> */}
+          </p>
         </div>
       </section>
       <section className="programContent">

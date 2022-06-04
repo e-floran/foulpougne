@@ -22,7 +22,7 @@ export default function Friday() {
         <h2>Vendredi 23 septembre</h2>
         <div className="homeDetailsContainer programContent">
           <h3>20h30 : double bal en ouverture !</h3>
-          <img src="/pictures/trio_traezh.png" alt="Le Trio Traezh" />
+          <img src="/pictures/trio_traezh.jpg" alt="Le Trio Traezh" />
           <h4>20h30 : bal avec « Trio Traezh »</h4>
           <p>
             Voilà un trio qui nous arrive de Bretagne pour ouvrir le festival
@@ -45,7 +45,7 @@ export default function Friday() {
           <h4>22h45 : bal solo avec Rémi Geffroy</h4>
           <img src="/pictures/Rémi Geffroy.jpg" alt="Rémi Geffroy" />
           <p>
-            Rémy Geffroy ? Le p’tit gars qui monte, qui monte ? La vérité est
+            Rémi Geffroy ? Le p’tit gars qui monte, qui monte ? La vérité est
             peut-être là. Une vérité à toucher du doigt lors de ce bal du 23
             septembre qui va ouvrir « Foulpougne Festival » de belle manière.
             Accordéoniste mais aussi compositeur, curieux de tout, Rémi Geffroy
