@@ -19,135 +19,68 @@ export default function Saturday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Samedi 24 septembre</h2>
+        <h2>Samedi 23 septembre</h2>
         <div className="homeDetailsContainer programContent">
           <h4>10 heures : stage de danses débutants</h4>
           <img
-            src="/pictures/Stage danses débutants.jpg"
+            src="/pictures/stage_danses_debutants.jpg"
             alt="danses débutants"
           />
           <p>
-            Si vous avez deux pieds, deux jambes, deux bras, alors vous êtes
-            parfaitement équipés pour venir participer à ce stage qui ne demande
-            aucune disposition particulière. Si ce n’est un soupçon de curiosité
-            pour découvrir les danses traditionnelles, toujours très festives.
-            Avec les animateurs et les musiciens présents, vous irez à la
-            rencontre des grands classiques des bals folk : scottish, en dro,
-            polka, cercle circassien, bourrée, chapeloise…
-          </p>
-          <h4>10h-12h puis 14h-17h : stage de musique d’ensemble</h4>
-          <img
-            src="/pictures/Stage musique d'ensemble.JPG"
-            alt="musique d'ensemble"
-          />
-          <p>
-            Rémi Geffroy sera l’artisan de ce stage qui s’étendra sur toute la
-            journée. Un stage ouvert à tous types d’instruments, pour aborder
-            ensemble des répertoires connus… ou moins connus. Il risque d’y
-            avoir de la surprise dans l’air !
-          </p>
-          <p>
-            L’objectif étant de faire jouer ensemble un diato et une guitare, un
-            violon et une clarinette, une harpe et un nickelharpa (liste
-            d’instruments non exhaustive, bien sûr), il est nécessaire d’avoir
-            « apprivoisé » son propre instrument depuis deux ou trois ans pour
-            ne pas décrocher trop facilement.
+          Si vous avez deux pieds, deux jambes, deux bras, alors vous êtes parfaitement équipés pour venir participer à ce stage qui ne demande aucune disposition particulière. Si ce n’est un soupçon de curiosité pour découvrir les danses traditionnelles, toujours très festives. Avec les animateurs et les musiciens présents, vous irez à la rencontre des grands classiques des bals folks : scottish, en dro, polka, cercle circassien, bourrée, chapeloise…
+Rendez-vous sur l’esplanade de l’Hôtel de ville.
           </p>
           <h4>12h : l’apéro !</h4>
           <p>
-            Là aussi, c’est devenu une tradition : à midi pile, c’est l’heure de
-            l’ouverture officielle du festival. Trois blablas, deux
-            interventions, trois jeux de mots, et quelques kilos de sourires, et
-            c’est le p’tit apéro qui va bien. Histoire de bien lancer les
-            « hostilités » folk et trad’ !
+          Là aussi, c’est devenu une tradition : à midi pile, c’est l’heure de l’ouverture officielle du festival sur l’esplanade de l’Hôtel de ville. Trois blablas, deux interventions, trois jeux de mots, et quelques kilos de sourires, et c’est le p’tit apéro qui va bien. Histoire de bien lancer les « hostilités » folk et trad’ !
           </p>
-          <h4>14h-17h : stage de bourrées d’Auvergne</h4>
+          <h4>14h-17h : stage de danses de Wallonie</h4>
           <img
-            src="/pictures/Stage bourrée d'Auvergne.webp"
-            alt="bourrée d'Auvergne"
+            src="/pictures/stage_danses_de_wallonie.jpg"
+            alt="danse de Wallonie"
           />
           <p>
-            Ce sont eux, les Auvergnats de « Komred » qui animeront le stage de
-            danses de ce samedi. Sans surprise, il y sera question de… bourrée à
-            3 temps. LA danse de chez eux, LA danse de leur prime jeunesse, LA
-            danse de leurs aïeux. Mais attention, il y a bourrée et bourrée. Et
-            les connaisseurs le savent : la bourrée peut se danser… en ligne, en
-            carré, en rond, en quadrette, croisée, droite… avec deux danseurs,
-            trois, quatre, six, huit… Sans oublier quelques formes bien
-            spécifiques pas toujours connues. De quoi découvrir plein de choses
-            tout au long de l’après-midi !
+          Cette année, nous vous proposons de mettre le cap sur le nord ! Pour découvrir les danses de Wallonie. La Wallonie constituant, pour info, le sud de la Belgique ! Avec de belles cités comme Liège, Charleroi, Mons, Bastogne, Namur… C’est là, dans ce beau et plat pays qu’est née Marinette Bonnert qui a commencé l’accordéon à l’âge de 12 ans avec Louis Spagna, fameux maître de musique à danser en Wallonie. C’est avec lui qu’elle découvre l’importance de la relation entre les danseurs et les musiciens. Elle ira ensuite suivre des stages de danses un peu partout en Europe, avant de s’intéresser à la spécificité de la musique wallonne, en partageant son expérience lors d’ateliers de danse, stages d’accordéon, concerts, spectacles de danse tant en Belgique qu’à l’étranger. C’est avec Pere Romani, son compère de 21 Boutons qu’elle va animer ce stage de danses wallonnes.
+Rendez-vous à la salle des fêtes.
+          </p>
+          <h4>14h-17h : stage d’accordéon diatonique</h4>
+          <img src="/pictures/stage_accordeon.jpg" alt="Stage d'accordéon" />
+          <p>
+          Le diato, c’est rigolo. Et surtout, c’est beau ! C’est la raison pour laquelle on s’est dit qu’un stage dédié à ce bel instrument serait le bienvenu. Durant trois heures, les amateurs vont pouvoir faire du tiré-poussé en compagnie de Léon Ollivier, le « diato chef » du groupe Bargainatt. 
+Pour cela, il conviendra de s’équiper d’un diato en tonalité Sol/Do comportant un minimum de deux rangées main droite et huit basses main gauche. Ensuite tout s’enchaînera, où il sera question d’écoute, de cadence, de « groove », de musicalité, d’harmonie, de rythmique, d’ornementation, de phrasé… tout cela au service de la danse, bien sûr ! Précaution : ayez déjà connaissance de votre instrument, un peu d’expérience ne fait pas de mal. Conseil : un crayon, un petit carnet, un enregistreur (pourquoi pas !), peuvent être utiles. 
+Rendez-vous sur l’esplanade de l’Hôtel de ville.
           </p>
           <h4>17h-19h30 : la scène Découverte</h4>
-          <img src="/pictures/Socam.jpg" alt="Socam" />
+          <img src="/pictures/projet_rustik.jpg" alt="Projet Rustik" />
           <p>
-            Chaque année, depuis son origine, « Foulpougne Festival » a à cœur
-            de proposer un créneau aux groupes amateurs, qu’ils soient « du
-            pays » ou de beaucoup plus loin. Groupes jeunes, encore méconnus, ou
-            groupes plus anciens, la parole leur est donnée durant ce laps de
-            temps qui se situe entre la fin des stages et l’heure de… l’apéro
-            dinatoire ! Un espace gratuit, ouvert à tous, danseurs, visiteurs,
-            curieux, en plein air (si la météo le permet) ou bien à l’abri si
-            d’aventure Jupiter se mêle à la fête ! Un moment sympathique de
-            découverte et de mise en pratique. Cette année, Foulpougne Festival
-            donne la parole au trio "Socam" qui arrive de la région bordelaise.
-            Avec Thomas Doornenbal (accordéon), Suzanne Rambaldi (boha, flûtes),
-            Léo Charly (banjo).
+          Cette année, pour cette belle tranche horaire du samedi qui se glisse entre la fin des stages et le dîner, nous vous proposons de rencontrer « Projet Rustik ». Un duo que compose Laurent Papon, au violon alto, et Jean-Luc Barraud, à la guitare. Forts de leurs deux albums, dont le dernier est sorti en avril 2021, ces deux musiciens vont offrir un patchwork vivifiant de bourrée, scottish, mazurka, rondeau, valse, cercle… 
+A découvrir : sur l’esplanade de l’Hôtel de ville (s’il fait beau temps), dans la grande salle du Centre Social (si le soleil boude).
           </p>
           <h4>19h30-21h : tous au ravitaillement !</h4>
           <p>
-            Vous avez préparé votre sandwich ? C’est parfait, c’est l’heure de
-            le sortir de la musette. Vous n’avez rien prévu ? Pas grave, vous
-            allez trouver sur place, sur l’esplanade de l’hôtel de ville, deux
-            foodtrucks prêts à vous proposer pas mal de choses très
-            appétissantes. Avec en prime, la buvette ambulante du festival à vos
-            côtés.
+          Vous avez préparé votre sandwich ? C’est parfait, c’est l’heure de le sortir de la musette. Vous n’avez rien prévu ? Pas grave, vous allez trouver sur place, sur l’esplanade de l’hôtel de ville, deux foodtrucks prêts à vous proposer pas mal de choses très appétissantes. Avec en prime, la buvette ambulante du festival à vos côtés.
           </p>
-          <h3>Double bal (bis) !</h3>
-          <h4>21h : bal avec « Komred »</h4>
-          <img src="/pictures/Komred.jpg" alt="Komred" />
+          <h4>21 heures : ouverture du bal avec « Hoctomoz »</h4>
+          <img src="/pictures/hoctomoz.jpg" alt="Hoctomoz" />
           <p>
-            Depuis plus de quinze ans, ils tracent leur propre route, à force de
-            bals, de concerts, d’enregistrements, toujours plus loin dans cette
-            quête du son qui démange les pieds et chatouille le cœur. Komred,
-            c’est cela : cinq musiciens qui ont grandi ensemble à
-            Saint-Bonnet-près-Riom, au « Gamounet », chez les « Brayauds ». Là,
-            dans ce creuset auvergnat, au cœur de ce Puy-de-Dôme si attachant,
-            ils y ont appris les danses et les musiques populaires de « chez
-            eux », d’Auvergne. Leurs racines. Depuis 2003, ils font sonner leurs
-            bourrées partout en France et même parfois plus loin… De jolies
-            mélodies et du beau son pour un bal auvergnat sauvage et
-            chaleureux !
+          Après Initium et Brindezingue vendredi, savez-vous qui "Foulpougne Festival" a invité, pour ouvrir la soirée du 23 septembre ? Un ch'tit trio qui a fait ses preuves, des d'jeunes qui n'en veulent et qui vont bien chauffer la salle ! Ah oui, le nom du groupe ? "Hoctomoz" qu'il s'appelle le trio. Ca vous parle ? Une flûte traversière (Lilian Guillemeney), un diato (Régis Marlaud) et un violon (Paul Fermé), et au total, trois garçons qui ont en commun le plaisir de la composition, de l’arrangement et celui de danser et de faire danser. Autant dire que ça devrait le faire ! Prenez place !!!
           </p>
-          <p>Antoine COGNET : banjo, guitare,</p>
-          <p>Clémence COGNET : violon, voix,</p>
-          <p>Cyril ETIENNE : clarinette,</p>
-          <p>Mathilde KARVAIX : clarinette, voix,</p>
-          <p>Loïc ETIENNE : accordéons diatoniques</p>
-          <h4>23h15 : bal avec les « Tralala Lovers »</h4>
-          <img src="/pictures/Tralala Lovers.jpg" alt="Tralala Lovers" />
+
+          <h4>23h15 : on enchaîne avec « Bargainatt »</h4>
+          <img src="/pictures/bargainatt.jpg" alt="Bargainatt" />
           <p>
-            Dire que les Tralala Lovers insufflent une énergie détonante dans la
-            grande galerie des musiques trad à danser relève de l’euphémisme.
-            Tellement les deux compères, Vincent Gaffet et Diego Meymarian,
-            chanteurs et multi-instrumentistes, proposent un bal euphorisant qui
-            mêle sans retenue des créations originales et une réinterprétation
-            très inventive du répertoire populaire. Sans sourciller, les deux
-            musiciens passent joyeusement de l’accordéon au tambourin, du violon
-            au banjo pour livrer de petites épopées ciselées, sautillantes et
-            romanesques qui ne s’inscrivent ni dans le passé, ni dans une mode
-            particulière d’un retour au trad. Un univers pop et acoustique, des
-            paroles malicieuses sur des airs que l’on reprend bien vite. De
-            scottish en polka, de valse en branle de Noirmoutier, le bal Tralala
-            constitue un véritable voyage folk qui mène aux quatre coins de
-            l’Europe. Attention : danseurs confirmés ou débutants pathétiques,
-            inutile de résister à l’appel du parquet, la contagieuse allégresse
-            de Diego et Vincent est comme le chant des sirènes !
+          On ne le présente plus. Enfin, si un peu, quand même… Bien ancré dans le paysage du trad’ européen (le groupe est né en 2016), Bargainatt écume les scènes et les salles depuis sept ans. Une belle bande de copains qui a commencé par emprunter aux grands prédécesseurs (Shillelagh, Naragonia…) et par taper dans les répertoires traditionnels avant de se lancer dans la composition de ses propres créations. 2018, 1er CD, 2020, 2ème CD. 150 bals plus tard, ils sont là, devant vous, pour vous entraîner de l’Auvergne à la Bretagne, en passant par le Poitou et la Gascogne. Un voyage aux multiples couleurs et influences, plein d’énergie et de fraicheur.
           </p>
-          <p>Vincent GAFFET : chant, violon, banjo, guimbarde</p>
-          <p>
-            Diego MEYMARIAN : chant, accordéon, componium, guimbarde,
-            percussions
+          <p>Avec Youmi Bazoge (violon et chant), Léon Ollivier (accordéon diatonique), Camille Stimbre (violon) et Noé Bazoge (violoncelle).
           </p>
+          <h4>L’expo photo</h4>
+          <img src="/pictures/expo_photo.jpg" alt="Expo" />
+          <p>Cette année « Foulpougne Festival » donne la parole à Patrice Dalmagne. Photographe installé à Lorient, Patrice Dalmagne est depuis une quarantaine d’années un spécialiste des clichés liés à la musique, la danse, la lutherie et les portraits d'artistes des musiques traditionnelles du monde. Journaliste durant très longtemps à « Trad Magazine » il a croisé des centaines d’artistes, sur scène et en coulisses. Chanteurs pakistanais, derviches tourneurs, virtuoses du bouzouki, sonneurs des bagadou de Bretagne, artistes africains, violoneux du Limousin ou spécialistes du zydéco de Louisiane, Patrice Dalmagne a tout photographié. Ce sont ces traces indélébiles sur la pellicule que l’on vous propose de découvrir.
+Expo Patrice Dalmagne. Salle des fêtes. Aux heures d’ouverture.</p>
+          <h4>La grande rétro</h4>
+          <img src="/pictures/grande_retro.jpg" alt="Grande rétro" />
+          <p>Comme tous les ans, « Foulpougne Festival » propose de revenir en arrière pour découvrir, voir -ou revoir- les temps forts en images de l’édition 2022. Sur grand écran, en boucle et en continu durant tout le festival, ce sera un véritable bonheur de retrouver Naragonia, Rémi Geffroy, Trio Traezh, Socam, Komred et les Tralala Lovers ! 
+La grande rétro. Salle des fêtes. Aux heures d’ouverture.</p>
         </div>
       </section>
     </div>

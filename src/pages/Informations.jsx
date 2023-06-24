@@ -26,7 +26,7 @@ export default function Informations() {
             Adresse postale : Foulpougne Festival, 5 Cité des Peupliers, 16160,
             Gond-Pontouvre
           </p>
-          <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50</p>
+          <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50 - 06 75 55 25 89</p>
           <a href="https://foulpougnefestival.netlify.app/">
             Notre site internet
           </a>

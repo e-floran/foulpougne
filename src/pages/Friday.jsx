@@ -19,64 +19,26 @@ export default function Friday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Vendredi 23 septembre</h2>
+        <h2>Vendredi 22 septembre</h2>
         <div className="homeDetailsContainer programContent">
-          <h3>20h30 : double bal en ouverture !</h3>
-          <img src="/pictures/trio_traezh.jpg" alt="Le Trio Traezh" />
-          <h4>20h30 : bal avec « Trio Traezh »</h4>
+          <h4>21 heures : ouverture du bal avec « Initium »</h4>
+          <img src="/pictures/Initium.jpg" alt="Initium" />
           <p>
-            Voilà un trio qui nous arrive de Bretagne pour ouvrir le festival
-            2022 ! « Trio Traezh », en breton, c’est la grève… Non, non, pas la
-            grève à la mode syndicalo-râleuse, mais plutôt ce vaste espace
-            maritime qui se découvre à marée basse, humide, riche, sablonneux,
-            vivifiant quand le vent d’Ouest vient le caresser. C’est là, sur
-            cette grève que l’on peut s’initier à toutes les danses bretonnes,
-            bien sûr, mais pas que... Car Christophe (guitare), Philippe
-            (accordéons) et Cécile (clarinette) proposent une palette musicale
-            extrêmement variée, véritable voyage dans le temps et dans l’espace.
-            Entre ridée et polka, entre scottish et mazurka. En avant !
-          </p>
-          <p>Cécile SIX : clarinette,</p>
-          <p>Christophe LEFÈVRE : guitare,</p>
+          C’est parti ! Ce vendredi 22, on est au taquet et on attaque ! Nous vous invitons à entrer dans la danse avec... "Initium" le groupe cher à Bruno Le Tron. La musique du trio, inspirée des balades entre Préalpes et Cévennes, en passant par l'île de Bréhat, est une franche invitation à se lever de sa chaise et à chalouper une mazurka ou à se déchaîner sur une chapeloise. Le diato répond à la guitare douze cordes, quand ce ne sont pas les clarinettes qui s'en mêlent. Des "notes énergiques ou satinées, rayonnantes ou intimes" comme le disent eux-mêmes les musicos ! Bon bal !          </p>
+          <p>Avec Bruno Le Tron (diato), Franck Fagon (saxo-clarinette), Pablo Molard (guitare) et Laurent Cabané (contrebasse).</p>
+          <h4>23h15 : on continue avec « Brindezingue »</h4>
+          <img src="/pictures/Brindezingue.jpg" alt="Brindezingue" />
           <p>
-            Philippe SOUFFOIS : accordéon diatonique et chromatique, tin et low
-            whistles
-          </p>
-          <h4>22h45 : bal solo avec Rémi Geffroy</h4>
-          <img src="/pictures/Rémi Geffroy.jpg" alt="Rémi Geffroy" />
-          <p>
-            Rémi Geffroy ? Le p’tit gars qui monte, qui monte ? La vérité est
-            peut-être là. Une vérité à toucher du doigt lors de ce bal du 23
-            septembre qui va ouvrir « Foulpougne Festival » de belle manière.
-            Accordéoniste mais aussi compositeur, curieux de tout, Rémi Geffroy
-            se laisse porter par toutes sortes d’influences : les cultures
-            traditionnelles, bien sûr, mais aussi le jazz, le pop-rock, la
-            variété… Autant de sources d’inspiration qui transpirent des quatre
-            albums sortis depuis 2012, à l’image d’« Odysseus », le tout
-            dernier, sorti en 2021 après un an de travail. Aujourd’hui, Rémi
-            Geffroy court les bals, les festivals, avec envie, avec gourmandise,
-            avec passion. Cette fois, ce sera bal solo. L’artiste, en contact
-            direct avec son public. Pour une bonne tranche de bonheur partagé.
-          </p>
-          <h4>Images, images…</h4>
-          <p>
-            Durant tout le festival, vous pourrez découvrir les meilleurs
-            moments du festival 2021, grâce à la projection permanente de ces
-            images sur grand écran, dans la salle des fêtes, au cœur même du
-            festival.
-          </p>
-          <img src="/pictures/Jeff Dantin - expo photo.jpg" alt="Jeff Dantin" />
-          <p>
-            Et juste à côté, vous irez à la découverte des clichés étonnants,
-            sensibles, drôles parfois, tendres, sensuels à l’occasion de
-            Jean-François Dantin. « Jeff », pour les intimes, c’est ce baroudeur
-            du clic-clac qui arpente les festivals trad’ depuis les années 80,
-            et en rapporte des instantanés qui parlent, qui disent l’intime de
-            la danse et de la musique traditionnelle. Discret, pas vu pas pris,
-            Jeff Dantin ne danse pas. Ne sait même pas ce qui différencie un
-            dièse d’un bémol. Mais Jeff fait partie de la famille. De la grande
-            famille du trad’.
-          </p>
+          Attention ! Le bal continue ! Car juste après Initium va débarquer… «Brindezingue» ! Si, si, Brindezingue, les furieux du Poitou ! Un trio dont l’histoire tient d’une « sympathique collision poitevine » (avouent-ils…) entre deux violoneux complices et bagarreurs, et un claviériste à l’humeur légèrement perturbatrice. Ensemble, cela donne un trio assez unique qui met un point d’honneur à livrer une belle musique à danser, composée de morceaux issus de collectages mais aussi de compositions très travaillées, laquelle musique, sous les doigts du trio, devient carrément… Brindezingue !</p>
+          <p>Avec Camille Jagueneau au violon et à la voix, Alexandre Benoist au violon, et Julien Deborde aux claviers.</p>
+          <h4>L’expo photo</h4>
+          <img src="/pictures/expo_photo.jpg" alt="Expo" />
+          <p>Cette année « Foulpougne Festival » donne la parole à Patrice Dalmagne. Photographe installé à Lorient, Patrice Dalmagne est depuis une quarantaine d’années un spécialiste des clichés liés à la musique, la danse, la lutherie et les portraits d'artistes des musiques traditionnelles du monde. Journaliste durant très longtemps à « Trad Magazine » il a croisé des centaines d’artistes, sur scène et en coulisses. Chanteurs pakistanais, derviches tourneurs, virtuoses du bouzouki, sonneurs des bagadou de Bretagne, artistes africains, violoneux du Limousin ou spécialistes du zydéco de Louisiane, Patrice Dalmagne a tout photographié. Ce sont ces traces indélébiles sur la pellicule que l’on vous propose de découvrir.
+Expo Patrice Dalmagne. Salle des fêtes. Aux heures d’ouverture.</p>
+          <h4>La grande rétro</h4>
+          <img src="/pictures/grande_retro.jpg" alt="Grande rétro" />
+          <p>Comme tous les ans, « Foulpougne Festival » propose de revenir en arrière pour découvrir, voir -ou revoir- les temps forts en images de l’édition 2022. Sur grand écran, en boucle et en continu durant tout le festival, ce sera un véritable bonheur de retrouver Naragonia, Rémi Geffroy, Trio Traezh, Socam, Komred et les Tralala Lovers ! 
+La grande rétro. Salle des fêtes. Aux heures d’ouverture.</p>
         </div>
       </section>
     </div>

@@ -19,32 +19,22 @@ export default function Sunday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Dimanche 25 septembre</h2>
+        <h2>Dimanche 24 septembre</h2>
         <div className="homeDetailsContainer programContent">
-          <h4>15h, bal avec « Naragonia »</h4>
-          <img src="/pictures/Naragonia.jpg" alt="Naragonia" />
+          <h4>14h30 : le bel après-midi avec « 21 Boutons »</h4>
+          <img src="/pictures/21_boutons.jpg" alt="21 Boutons" />
           <p>
-            Ils nous arrivent du « grand nord » : de cette Flandre belge si
-            attachante, si riche, si étonnante. Fondé en 2003 lors du festival
-            « Andanças » au Portugal, Naragonia s’appuie dès le départ sur le
-            duo formé par Toon Van Mierlo (accordéon et cornemuse irlandaise) et
-            Pascale Rubens (accordéon). Le duo s’est ensuite métamorphosé en
-            quartet avec l’arrivée de Maarten Decombel (guitare et mandoline) et
-            de Luc Pilartz (violon). Le quatuor s’est très vite mis en avant,
-            grâce à son sens de la mélodie et surtout le doigté avec lequel il
-            met en évidence le son de chaque instrument. Au départ de quelques
-            notes d’accordéon diatonique, la mélodie s’éveille en douceur puis,
-            les autres instruments comme la guitare et le violon viennent alors
-            compléter le tableau musical, tout en restant des plus mélodiques.
-            Entre « néo-classique » et « néotrad », toujours ancrée dans les
-            traditions d’ici et d’ailleurs, la musique ou plutôt la mélodie de
-            Naragonia invite à une écoute attentive car ici, c’est encore une
-            fois l’essence des instruments qui est mis en valeur.
+          Mais comment font-ils ? Lui en Catalogne, elle en Belgique. Réponse : ils font… Malgré la distance qui les sépare. Et ça dure depuis 2006 ! Et brillamment ! Tout là-haut, Marinette Bonnert. Tout en bas, Pere Romani. Deux accordéons diatoniques qui s’accordent à merveille. 17 ans de balades, de virées, de voyages avec 21 boutons d’un côté, 21 boutons de l’autre (c’est le minimum pour un diato !), beaucoup de kilomètres, de pays traversés, de musiciens rencontrés, de solides amitiés forgées… En ce bel après-midi dominical, ils sont là, à Gond-Pontouvre, pour refermer la page de « Foulpougne Festival » 2023. Ils vous attendent. 
           </p>
-          <p>Pascale RUBENS : accordéon diatonique, violon</p>
-          <p>Toon VAN MIERLO : accordéon diatonique, cornemuse</p>
-          <p>Luc PILARTZ : violon</p>
-          <p>Maarten DECOMBEL : mandole, guitare</p>
+          <p>Avec Marinette Bonnert (accordéon diatonique) et Pere Romani (accordéon diatonique).</p>
+          <h4>L’expo photo</h4>
+          <img src="/pictures/expo_photo.jpg" alt="Expo" />
+          <p>Cette année « Foulpougne Festival » donne la parole à Patrice Dalmagne. Photographe installé à Lorient, Patrice Dalmagne est depuis une quarantaine d’années un spécialiste des clichés liés à la musique, la danse, la lutherie et les portraits d'artistes des musiques traditionnelles du monde. Journaliste durant très longtemps à « Trad Magazine » il a croisé des centaines d’artistes, sur scène et en coulisses. Chanteurs pakistanais, derviches tourneurs, virtuoses du bouzouki, sonneurs des bagadou de Bretagne, artistes africains, violoneux du Limousin ou spécialistes du zydéco de Louisiane, Patrice Dalmagne a tout photographié. Ce sont ces traces indélébiles sur la pellicule que l’on vous propose de découvrir.
+Expo Patrice Dalmagne. Salle des fêtes. Aux heures d’ouverture.</p>
+          <h4>La grande rétro</h4>
+          <img src="/pictures/grande_retro.jpg" alt="Grande rétro" />
+          <p>Comme tous les ans, « Foulpougne Festival » propose de revenir en arrière pour découvrir, voir -ou revoir- les temps forts en images de l’édition 2022. Sur grand écran, en boucle et en continu durant tout le festival, ce sera un véritable bonheur de retrouver Naragonia, Rémi Geffroy, Trio Traezh, Socam, Komred et les Tralala Lovers ! 
+La grande rétro. Salle des fêtes. Aux heures d’ouverture.</p>
         </div>
       </section>
     </div>
