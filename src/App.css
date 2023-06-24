@@ -1,6 +1,6 @@
 body {
   width: 100vw;
-  background-color: var(--FPmain);
+  background-color: var(--FPwhite);
 }
 .App,
 .App > div,
@@ -10,7 +10,7 @@ body {
   width: 100%;
 }
 .App {
-  background-color: var(--FPmain);
+  background-color: var(--FPwhite);
   max-width: 900px;
   min-height: 100vh;
   margin: 0 auto;
@@ -21,7 +21,7 @@ body {
 }
 .pageContainer {
   margin: 0 auto;
-  background-color: white;
+  background-color: var(--FPwhite);
   display: grid;
   gap: 0;
   grid-template-columns: 100%;

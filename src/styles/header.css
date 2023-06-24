@@ -7,7 +7,7 @@ ul {
 header {
   margin: 0 auto;
   padding-bottom: 0.5rem;
-  background-color: #ffffff;
+  background-color: var(--FPwhite);
 }
 header > a {
   display: inline-block;
@@ -40,7 +40,7 @@ nav ul {
 nav ul a {
   width: 100%;
   margin: 0.5rem auto;
-  background-color: white;
+  background-color: var(--FPwhite);
   display: flex;
   justify-content: center;
   flex-direction: column;

@@ -22,7 +22,7 @@
 }
 
 .innerMenu a:hover {
-  background-color: white;
+  background-color: var(--FPwhite);
   box-shadow: 0.15rem 0.15rem var(--FPblack);
 }
 .summariesContent h2,
