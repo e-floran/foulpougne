@@ -50,45 +50,39 @@ export default function Informations() {
             <p className="pricingCenter">Stages</p>
             <div className="pricingRight" />
             <p>Danses débutants</p>
-            <p>8€</p>
-            <p>gratuit</p>
-            <p>Danses d'Auvergne</p>
-            <p>15€</p>
-            <p>12€</p>
-            <p>Musique d’ensemble</p>
-            <p>20€</p>
-            <p>15€</p>
+            <p>9€</p>
+            <p>9€</p>
+            <p>Danses de Wallonie</p>
+            <p>16€</p>
+            <p>16€</p>
+            <p>Stage d'accordéon diatonique</p>
+            <p>16€</p>
+            <p>16€</p>
             <div className="pricingLeft" />
             <p className="pricingCenter">Bals</p>
             <div className="pricingRight" />
-            <p>Vendredi - Trio Traezh et Rémi Geffroy</p>
-            <p>12€</p>
-            <p>10€</p>
-            <p>Samedi - Komred et Tralala Lovers</p>
-            <p>12€</p>
-            <p>10€</p>
-            <p>Dimanche - Naragonia</p>
-            <p>12€</p>
-            <p>10€</p>
+            <p>Vendredi</p>
+            <p>13€</p>
+            <p>9€</p>
+            <p>Samedi</p>
+            <p>13€</p>
+            <p>9€</p>
+            <p>Dimanche</p>
+            <p>11€</p>
+            <p>8€</p>
             <div className="pricingLeft" />
             <p className="pricingCenter">Pass</p>
             <div className="pricingRight" />
-            <p>Pass festival (danse et 3 bals)</p>
-            <p>43€</p>
-            <p>36€</p>
-            <p>Pass festival (musique et 3 bals)</p>
-            <p>48€</p>
-            <p>39€</p>
-            <p>Pass samedi (danse et bal)</p>
-            <p>23€</p>
-            <p>19€</p>
-            <p>Pass samedi (musique et bal)</p>
-            <p>27€</p>
-            <p>21€</p>
+            <p>Pass festival (1 stage et 3 bals)</p>
+            <p>46€</p>
+            <p>30€</p>
+            <p>Pass 3 bals</p>
+            <p>31€</p>
+            <p>25€</p>
           </article>
           <p>
             Tarif réduit : adhérents de l’association Foulpougne Festival,
-            jeunes de 12 à 18 ans, demandeurs d’emploi.
+            jeunes de 12 à 18 ans, demandeurs d’emploi (sur justificatif).
           </p>
         </div>
       </section>

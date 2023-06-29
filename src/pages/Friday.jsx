@@ -34,11 +34,13 @@ export default function Friday() {
           <h4>L’expo photo</h4>
           <img src="/pictures/expo_photo.jpg" alt="Expo" />
           <p>Cette année « Foulpougne Festival » donne la parole à Patrice Dalmagne. Photographe installé à Lorient, Patrice Dalmagne est depuis une quarantaine d’années un spécialiste des clichés liés à la musique, la danse, la lutherie et les portraits d'artistes des musiques traditionnelles du monde. Journaliste durant très longtemps à « Trad Magazine » il a croisé des centaines d’artistes, sur scène et en coulisses. Chanteurs pakistanais, derviches tourneurs, virtuoses du bouzouki, sonneurs des bagadou de Bretagne, artistes africains, violoneux du Limousin ou spécialistes du zydéco de Louisiane, Patrice Dalmagne a tout photographié. Ce sont ces traces indélébiles sur la pellicule que l’on vous propose de découvrir.
-Expo Patrice Dalmagne. Salle des fêtes. Aux heures d’ouverture.</p>
+</p>
+<p>Expo Patrice Dalmagne. Salle des fêtes. Aux heures d’ouverture durant les trois jours.</p>
           <h4>La grande rétro</h4>
           <img src="/pictures/grande_retro.jpg" alt="Grande rétro" />
           <p>Comme tous les ans, « Foulpougne Festival » propose de revenir en arrière pour découvrir, voir -ou revoir- les temps forts en images de l’édition 2022. Sur grand écran, en boucle et en continu durant tout le festival, ce sera un véritable bonheur de retrouver Naragonia, Rémi Geffroy, Trio Traezh, Socam, Komred et les Tralala Lovers ! 
-La grande rétro. Salle des fêtes. Aux heures d’ouverture.</p>
+</p>
+<p>La grande rétro. Salle des fêtes. Aux heures d’ouverture durant les trois jours.</p>
         </div>
       </section>
     </div>
