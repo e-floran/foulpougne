@@ -89,12 +89,30 @@
         "De la centaine de fervents amateurs venus découvrir le balbutiant « Foulpougne Festival » en 2017, on est passé en 2022 à plus de 700 entrées ! Le festival, fort de ses programmations attirantes, s’ancre peu à peu dans le paysage hexagonal des musiques et danses traditionnelles. Les danseurs ont partagé leur bonheur d’être là avec « Trio Traezh », venu de Bretagne, avec Rémi Geffroy (au four et au moulin, pardon, au stage de diato et au bal !), avec les Auvergnats de « Komred » (au stage de bourrées 3 temps et au bal) et avec les inénarrables « Tralala Lovers », et enfin avec Pascale, Toon, Luc et Martin, du si beau quatuor « Naragonia ». N’oublions pas les p’tits jeunes de Socam, qui ont joliment animé la Scène découverte."
       ],
       "eventPictures": [
+        "/pictures/affiche_2022.jpg",
         "/pictures/Naragonia.jpg",
         "/pictures/2022_komred.jpg",
         "/pictures/2022_remi_geffroy.jpg",
         "/pictures/2022_socam.jpg",
         "/pictures/2022_tralala_lovers.jpg",
         "/pictures/2022_trio_traezh.jpg"
+      ]
+    },
+    {
+      "id": 2023,
+      "eventReference": "2023",
+      "eventDate": "22, 23, 24 septembre",
+      "eventTitle": "2023",
+      "eventText": [
+        ""
+      ],
+      "eventPictures": [
+        "/pictures/Initium.jpg",
+        "/pictures/Brindezingue.jpg",
+        "/pictures/projet_rustik.jpg",
+        "/pictures/hoctomoz.jpg",
+        "/pictures/bargainatt.jpg",
+        "/pictures/21_boutons.jpg"
       ]
     }
   ]

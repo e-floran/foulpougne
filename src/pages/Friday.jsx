@@ -19,8 +19,8 @@ export default function Friday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Vendredi 22 septembre</h2>
-        <div className="homeDetailsContainer programContent">
+        <h2>Vendredi 20 septembre</h2>
+        {/* <div className="homeDetailsContainer programContent">
           <h4>21 heures : ouverture du bal avec « Initium »</h4>
           <img src="/pictures/Initium.jpg" alt="Initium" />
           <p>
@@ -41,7 +41,7 @@ export default function Friday() {
           <p>Comme tous les ans, « Foulpougne Festival » propose de revenir en arrière pour découvrir, voir -ou revoir- les temps forts en images de l’édition 2022. Sur grand écran, en boucle et en continu durant tout le festival, ce sera un véritable bonheur de retrouver Naragonia, Rémi Geffroy, Trio Traezh, Socam, Komred et les Tralala Lovers ! 
 </p>
 <p>La grande rétro. Salle des fêtes. Aux heures d’ouverture durant les trois jours.</p>
-        </div>
+        </div> */}
       </section>
     </div>
   );

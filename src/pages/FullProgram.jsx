@@ -20,7 +20,7 @@ export default function FullProgram() {
         </ul>
       </section>
       <section className="summariesContent programContent">
-        <h2>23, 24 et 25 septembre</h2>
+        <h2>20, 21 et 22 septembre</h2>
         {/* <h3>À venir</h3> */}
         {/* <img
           src="/pictures/Djamila Lemasle - expo photo.jpg"

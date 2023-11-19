@@ -19,8 +19,8 @@ export default function Saturday() {
         </ul>
       </section>
       <section className="homeContent">
-        <h2>Samedi 23 septembre</h2>
-        <div className="homeDetailsContainer programContent">
+        <h2>Samedi 21 septembre</h2>
+        {/* <div className="homeDetailsContainer programContent">
           <h4>10 heures : stage de danses débutants</h4>
           <img
             src="/pictures/stage_danses_debutants.jpg"
@@ -76,7 +76,7 @@ A découvrir : sur l’esplanade de l’Hôtel de ville (s’il fait beau temps
           </p>
           <p>Avec Youmi Bazoge (violon et chant), Léon Ollivier (accordéon diatonique), Camille Stimbre (violon) et Noé Bazoge (violoncelle).
           </p>
-        </div>
+        </div> */}
       </section>
     </div>
   );

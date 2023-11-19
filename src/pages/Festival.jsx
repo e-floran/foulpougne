@@ -24,7 +24,7 @@ export default function Festival() {
             3èmes week-ends de septembre, pour assurer une rentrée festive et
             conviviale.
           </p>
-          <p>Place à la 6ème édition les 22, 23, 24 septembre 2023.</p>
+          <p>Place à la 7ème édition les 20, 21, 22 septembre 2024.</p>
         </div>
       </section>
     </div>
