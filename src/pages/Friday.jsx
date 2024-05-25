@@ -22,7 +22,7 @@ export default function Friday() {
         <h2>Vendredi 20 septembre</h2>
         <div className="homeDetailsContainer programContent">
           <h4>21 heures : bal folk avec Trio Bonnin-Campino-Laplanche</h4>
-          {/* <img src="/pictures/Initium.jpg" alt="Initium" /> */}
+          <img src="/pictures/2024_trio.png" alt="Trio Bonnin - Campino - Laplanche" />
           <p>
           Ils auront l’honneur d’ouvrir la 7ème édition de « Foulpougne Festival » ! Nicolas Campin, Gabriel Bonnin et Anne Laplanche, respectivement à l'accordéon, au violon et au violoncelle, sont trois musiciens issus du collectif de musique traditionnelle tourangeau "La Grand' Bête". Ils proposent un répertoire de compositions et de reprises, autour des danses de la région Centre et d’ailleurs ! Scottishs, mazurkas, bourrées… seront à l'honneur. Le trio, c’est de la musique à danser, de la musique à écouter et surtout à partager.</p>
           <p>Salle des fêtes « Joséphine Baker »</p>

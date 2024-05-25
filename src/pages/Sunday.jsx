@@ -21,6 +21,8 @@ export default function Sunday() {
       <section className="homeContent">
         <h2>Dimanche 22 septembre</h2>
         <div className="homeDetailsContainer programContent">
+        <h4>11h30 : pique nique partagé avec scène ouverte acoustique</h4>
+        <p>Retrouvons-nous tous dimanche à partir de 11h30 à l'île Foulpougne (juste derrière la salle) pour un Pique Nique partagé en musique (scène ouverte acoustique). Amis musiciens: apportez vos instruments. Si vous êtes intéressés pour jouer, n'hésitez pas à nous envoyer un petit mail à contact.foulpougne@gmail.com</p>
           <h4>14h30 : bal folk avec Novar</h4>
           <img src="/pictures/2024_novar.jpg" alt="Novar" />
           <p>

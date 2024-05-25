@@ -7,7 +7,7 @@ export default function Home() {
         <h2>La prochaine édition du festival aura lieu</h2>
         <h2> du 20 au 22 septembre 2024</h2>
         <article className="homePictureContainer">
-          <img src="/pictures/affiche_2024.png" alt="affiche 2023 du festival Foulpougne" />
+          <img src="/pictures/affiche_2024.png" alt="affiche 2024 du festival Foulpougne" />
         </article>
         {/* <div className="homeDetailsContainer">
           <article>

@@ -26,7 +26,7 @@ export default function Informations() {
             Adresse postale : Foulpougne Festival, 5 Cité des Peupliers, 16160,
             Gond-Pontouvre
           </p>
-          <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50 - 06 75 55 25 89</p>
+          {/* <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50 - 06 75 55 25 89</p> */}
           <p>Mail : contact.foulpougne@gmail.com</p>
           <a href="https://foulpougnefestival.netlify.app/">
             Notre site internet
@@ -85,6 +85,8 @@ festival/evenements/foulpougne-festival-2024">
             Tarif réduit : adhérents de l’association Foulpougne Festival,
             jeunes de 12 à 18 ans, demandeurs d’emploi (sur justificatif).
           </p>
+          <a href="https://www.helloasso.com/associations/foulpougne-
+festival/evenements/foulpougne-festival-2024">Réservations sur Helloasso</a>
         </div>
       </section>
       <section className="programContent">
@@ -100,6 +102,15 @@ festival/evenements/foulpougne-festival-2024">
           <h4>Parking gratuit</h4>
           <p>Place de l'Hôtel-de-Ville</p>
           <p>16160 Gond-Pontouvre</p>
+          <h4>Hôtels et maisons d'hôtes</h4>
+<p>B and B (2 étoiles) : 4 rue de la Croix-Blanche, 16160 Gond-Pontouvre. 0 890 10 67 04</p>
+<p>Hôtel Saint Antoine (3 étoiles) : 2 rue du Gond, 16000 Angoulême. 05 45 68 38 21</p>
+<p>Hôtel F1 Angoulême (1 étoile) : 210 rue des Meneaux, 16430 Champniers. 0 891 70 51 62</p>
+<p>Ibis budget Angoulême Nord (2 étoiles) : 172 rue des Meneaux, 16430 Champniers. 0 892 70 09 41</p>
+<p>Au Moulin Neuf : 34 rue du Moulin-Neuf, 16160 Gond-Pontouvre. 05 45 94 50 29</p>
+<p>Bed & Breakfast Les Hauts de Chalonne (6 chambres)
+Lieu-dit Chalonne, 27 rue Corneille, 16160 Gond-Pontouvre</p>
+<p>Hôtel Kyriad Angoulême Nord - Champniers (3 étoiles) : 184 rue des Platanes, 16430 Champniers. 05 45 68 03 22</p>
       </section>
       <section className="programContent">
         <h3>Les sites internet des copains</h3>
