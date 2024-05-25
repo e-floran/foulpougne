@@ -27,16 +27,20 @@ export default function Informations() {
             Gond-Pontouvre
           </p>
           <p>Téléphone : 05 45 68 32 63 – 06 44 86 67 50 - 06 75 55 25 89</p>
+          <p>Mail : contact.foulpougne@gmail.com</p>
           <a href="https://foulpougnefestival.netlify.app/">
             Notre site internet
           </a>
-          <p>Mail : patservant@yahoo.fr</p>
           <a href="https://www.facebook.com/FoulpougneFestival">
             Notre page Facebook
           </a>
+          <a href="https://www.helloasso.com/associations/foulpougne-
+festival/evenements/foulpougne-festival-2024">
+  Notre page HelloAsso
+</a>
           <h3>Le lieu</h3>
           <p>
-            Salle des fêtes, avenue du Général-De-Gaulle, Gond-Pontouvre (16)
+            Salle des fêtes Joséphine Baker, avenue du Général-De-Gaulle, Gond-Pontouvre (16)
           </p>
           <p>Coordonnées GPS : Latitude : 45.6672 / Longitude : 0.16127</p>
           <h3>Restauration</h3>
@@ -52,39 +56,50 @@ export default function Informations() {
             <p>Danses débutants</p>
             <p>9€</p>
             <p>9€</p>
-            <p>Danses de Wallonie</p>
-            <p>16€</p>
-            <p>16€</p>
-            <p>Stage d'accordéon diatonique</p>
-            <p>16€</p>
-            <p>16€</p>
+            <p>Danses de Gascogne</p>
+            <p>18€</p>
+            <p>18€</p>
+            <p>Stage de musique d'ensemble</p>
+            <p>25€</p>
+            <p>25€</p>
             <div className="pricingLeft" />
             <p className="pricingCenter">Bals</p>
             <div className="pricingRight" />
             <p>Vendredi</p>
-            <p>13€</p>
-            <p>9€</p>
+            <p>14€ (prévente) 16€ (après le 15/09)</p>
+            <p>10€</p>
             <p>Samedi</p>
-            <p>13€</p>
-            <p>9€</p>
+            <p>14€ (prévente) 16€ (après le 15/09)</p>
+            <p>10€</p>
             <p>Dimanche</p>
-            <p>11€</p>
-            <p>8€</p>
+            <p>11€ (prévente) 13€ (après le 15/09)</p>
+            <p>9€</p>
             <div className="pricingLeft" />
             <p className="pricingCenter">Pass</p>
             <div className="pricingRight" />
-            <p>Pass festival (1 stage et 3 bals)</p>
-            <p>46€</p>
-            <p>30€</p>
             <p>Pass 3 bals</p>
-            <p>31€</p>
-            <p>25€</p>
+            <p>33€ (prévente)</p>
+            <p>27€</p>
           </article>
           <p>
             Tarif réduit : adhérents de l’association Foulpougne Festival,
             jeunes de 12 à 18 ans, demandeurs d’emploi (sur justificatif).
           </p>
         </div>
+      </section>
+      <section className="programContent">
+          <h3>Hébergements festivaliers</h3>
+          <h4>Camping avec location possible de mobil homes</h4>
+          <p>Camping du plan d'eau</p>
+          <p>Terrain de camping</p>
+          <p>Saint-Yrieix-sur-Charente - 05 45 92 14 64</p>
+          <h4>Parking mobil home</h4>
+          <p>Parking gratuit</p>
+          <p>14 boulevard Besson-Bey</p>
+          <p>16000 Angoulême</p>
+          <h4>Parking gratuit</h4>
+          <p>Place de l'Hôtel-de-Ville</p>
+          <p>16160 Gond-Pontouvre</p>
       </section>
       <section className="programContent">
         <h3>Les sites internet des copains</h3>

@@ -23,6 +23,9 @@
   align-items: center;
   padding: 1rem 0;
 }
+.homePictureContainer > img {
+  width: 100%;
+}
 .homeDetailsContainer article {
   width: 100%;
   max-width: 250px;

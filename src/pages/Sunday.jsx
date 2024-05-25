@@ -20,14 +20,17 @@ export default function Sunday() {
       </section>
       <section className="homeContent">
         <h2>Dimanche 22 septembre</h2>
-        {/* <div className="homeDetailsContainer programContent">
-          <h4>14h30 : le bel après-midi avec « 21 Boutons »</h4>
-          <img src="/pictures/21_boutons.jpg" alt="21 Boutons" />
+        <div className="homeDetailsContainer programContent">
+          <h4>14h30 : bal folk avec Novar</h4>
+          <img src="/pictures/2024_novar.jpg" alt="Novar" />
           <p>
-          Mais comment font-ils ? Lui en Catalogne, elle en Belgique. Réponse : ils font… Malgré la distance qui les sépare. Et ça dure depuis 2006 ! Et brillamment ! Tout là-haut, Marinette Bonnert. Tout en bas, Pere Romani. Deux accordéons diatoniques qui s’accordent à merveille. 17 ans de balades, de virées, de voyages avec 21 boutons d’un côté, 21 boutons de l’autre (c’est le minimum pour un diato !), beaucoup de kilomètres, de pays traversés, de musiciens rencontrés, de solides amitiés forgées… En ce bel après-midi dominical, ils sont là, à Gond-Pontouvre, pour refermer la page de « Foulpougne Festival » 2023. Ils vous attendent. 
+          Novar… comme novateur. Un peu de trad, un peu d'électro. La clarté de la vielle à roue de Thierry Nouat en contraste avec l'obscurité des cornemuses de Toon Van Mierlo. Solidement soutenu par le clavier de Jeroen Geerinck et l'accordéon d'Aurélien Claranbaux, qui percute comme un coup de poing dans le noir... Un groupe de musiciens trad’ reconnus pour leur son "néo". Novar, comme un univers qui émerge des profondeurs de la Terre.
           </p>
-          <p>Avec Marinette Bonnert (accordéon diatonique) et Pere Romani (accordéon diatonique).</p>
-        </div> */}
+          <p>Avec Toon Van Mierlo (accordéon diatonique, cornemuse), Jeroen Geerinck (mandole, clavier), Aurélien Claranbaux (accordéon chromatique bisonore), Thierry Nouat (vielle à roue).</p>
+          <p>
+          Salle des fêtes Joséphine Baker
+          </p>
+        </div>
       </section>
     </div>
   );

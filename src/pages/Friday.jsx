@@ -20,28 +20,26 @@ export default function Friday() {
       </section>
       <section className="homeContent">
         <h2>Vendredi 20 septembre</h2>
-        {/* <div className="homeDetailsContainer programContent">
-          <h4>21 heures : ouverture du bal avec « Initium »</h4>
-          <img src="/pictures/Initium.jpg" alt="Initium" />
+        <div className="homeDetailsContainer programContent">
+          <h4>21 heures : bal folk avec Trio Bonnin-Campino-Laplanche</h4>
+          {/* <img src="/pictures/Initium.jpg" alt="Initium" /> */}
           <p>
-          C’est parti ! Ce vendredi 22, on est au taquet et on attaque ! Nous vous invitons à entrer dans la danse avec... "Initium" le groupe cher à Bruno Le Tron. La musique du trio, inspirée des balades entre Préalpes et Cévennes, en passant par l'île de Bréhat, est une franche invitation à se lever de sa chaise et à chalouper une mazurka ou à se déchaîner sur une chapeloise. Le diato répond à la guitare douze cordes, quand ce ne sont pas les clarinettes qui s'en mêlent. Des "notes énergiques ou satinées, rayonnantes ou intimes" comme le disent eux-mêmes les musicos ! Bon bal !          </p>
-          <p>Avec Bruno Le Tron (diato), Franck Fagon (saxo-clarinette), Pablo Molard (guitare) et Laurent Cabané (contrebasse).</p>
-          <h4>23h15 : on continue avec « Brindezingue »</h4>
-          <img src="/pictures/Brindezingue.jpg" alt="Brindezingue" />
+          Ils auront l’honneur d’ouvrir la 7ème édition de « Foulpougne Festival » ! Nicolas Campin, Gabriel Bonnin et Anne Laplanche, respectivement à l'accordéon, au violon et au violoncelle, sont trois musiciens issus du collectif de musique traditionnelle tourangeau "La Grand' Bête". Ils proposent un répertoire de compositions et de reprises, autour des danses de la région Centre et d’ailleurs ! Scottishs, mazurkas, bourrées… seront à l'honneur. Le trio, c’est de la musique à danser, de la musique à écouter et surtout à partager.</p>
+          <p>Salle des fêtes « Joséphine Baker »</p>
+          <h4>23h : bal folk avec Arbadétorne</h4>
+          <img src="/pictures/2024_arbadetorne.jpg" alt="Arbadétorne" />
           <p>
-          Attention ! Le bal continue ! Car juste après Initium va débarquer… «Brindezingue» ! Si, si, Brindezingue, les furieux du Poitou ! Un trio dont l’histoire tient d’une « sympathique collision poitevine » (avouent-ils…) entre deux violoneux complices et bagarreurs, et un claviériste à l’humeur légèrement perturbatrice. Ensemble, cela donne un trio assez unique qui met un point d’honneur à livrer une belle musique à danser, composée de morceaux issus de collectages mais aussi de compositions très travaillées, laquelle musique, sous les doigts du trio, devient carrément… Brindezingue !</p>
-          <p>Avec Camille Jagueneau au violon et à la voix, Alexandre Benoist au violon, et Julien Deborde aux claviers.</p>
+          Arbadétorne, aujourd’hui en trio, porte les musiques traditionnelles de Vendée depuis plus de 20 ans. Arbadétorne, c’est un pilier, un fief, un château fort. Avec au sommet de la tour, l’incontournable Maxime Chevrier, tout à la fois musicien, chanteur, danseur, conteur et bateleur. Avec à ses côtés, Mickaël Auger, le prof de diato, l’un des meilleurs spécialistes du répertoire de musique traditionnelle du Poitou-Vendée, et Benoit Michaud, l’homme à la vielle à roue, le musicien à la fois inventif et à l’écoute de l’ensemble.</p>
+          <p>Salle des fêtes « Joséphine Baker »</p>
           <h4>L’expo photo</h4>
-          <img src="/pictures/expo_photo.jpg" alt="Expo" />
-          <p>Cette année « Foulpougne Festival » donne la parole à Patrice Dalmagne. Photographe installé à Lorient, Patrice Dalmagne est depuis une quarantaine d’années un spécialiste des clichés liés à la musique, la danse, la lutherie et les portraits d'artistes des musiques traditionnelles du monde. Journaliste durant très longtemps à « Trad Magazine » il a croisé des centaines d’artistes, sur scène et en coulisses. Chanteurs pakistanais, derviches tourneurs, virtuoses du bouzouki, sonneurs des bagadou de Bretagne, artistes africains, violoneux du Limousin ou spécialistes du zydéco de Louisiane, Patrice Dalmagne a tout photographié. Ce sont ces traces indélébiles sur la pellicule que l’on vous propose de découvrir.
-</p>
-<p>Expo Patrice Dalmagne. Salle des fêtes. Aux heures d’ouverture durant les trois jours.</p>
+          <img src="/pictures/2024_myriam_jegat.jpg" alt="Expo" />
+          <p>L’équipe de « Foulpougne Festival » est fière d’accueillir cette année la photographe Myriam Jegat. Installée en Bretagne, Myriam Jégat, voue une véritable passion pour la musique bretonne, dans ses formes traditionnelles comme les plus contemporaines, et plus encore, un véritable amour pour les sonneurs, chanteurs, musiciens, danseurs, tous ces porteurs et transmetteurs d’un patrimoine vivant en perpétuel renouvellement. Fêtes, festivals, rencontres interculturelles, créations pour la scène et portraits d’artistes … Voici maintenant plus de dix ans que ses reportages sur l’actualité des musiques traditionnelles de Bretagne sont publiés dans la revue Musique Bretonne. Ces photos inédites témoignent de la bouillonnante scène bretonne de ces dernières années.</p>
+          <p>Expo Myriam Jegat, Salle des fêtes. Aux heures d’ouverture durant les trois jours.</p>
           <h4>La grande rétro</h4>
           <img src="/pictures/grande_retro.jpg" alt="Grande rétro" />
-          <p>Comme tous les ans, « Foulpougne Festival » propose de revenir en arrière pour découvrir, voir -ou revoir- les temps forts en images de l’édition 2022. Sur grand écran, en boucle et en continu durant tout le festival, ce sera un véritable bonheur de retrouver Naragonia, Rémi Geffroy, Trio Traezh, Socam, Komred et les Tralala Lovers ! 
-</p>
+          <p>« Foulpougne Festival » propose de revenir en arrière pour découvrir, voir -ou revoir- les temps forts en images de l’édition 2023. Sur grand écran, en boucle et en continu durant tout le festival, ce sera un véritable bonheur de retrouver Initium et Bruno Le Tron, Brindezingue avec Camille Jagueneau, le trio Hoctomoz, Bargainatt avec la « Bazoge Family », Projet Rustik, Marinette et Pere de 21 Boutons !</p>
 <p>La grande rétro. Salle des fêtes. Aux heures d’ouverture durant les trois jours.</p>
-        </div> */}
+        </div>
       </section>
     </div>
   );
