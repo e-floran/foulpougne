@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="pageContainer">
       <section className="homeContent">
-        <p>Veuillez désormais retrouver les informations sur le festival sur le site suivant : <a href="https://foulpougnefestival.wixsite.com/foulpougne-festival" title="Foulpougne Festival">nouveau site Foupougne festival</a></p>
+        <p>Veuillez désormais retrouver les informations sur le festival sur le site suivant : <a href="https://foulpougnefestival.wixsite.com/foulpougne-festival" title="Foulpougne Festival" style={{border: "none"}}>nouveau site Foupougne festival</a></p>
         {/* <h2>La prochaine édition du festival aura lieu</h2>
         <h2> du 20 au 22 septembre 2024</h2>
         <article className="homePictureContainer">
